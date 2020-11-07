@@ -1,4 +1,4 @@
 # blacklist
-pihole blacklist
+malicious websites blacklist
 
 Just testing...
