@@ -5,7 +5,7 @@
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
 ! Last modified: 28 Jun 2024 13:30 UTC
 ! Syntax: AdBlock
-! Number of entries: 9587
+! Number of entries: 9572
 !
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -1555,8 +1555,6 @@
 ||ats.rlcdn.com^
 ||atvenvivo.pe^
 ||au-gmtdmp.mookie1.com^
-||au-v10.events.data.microsoft.com^
-||au-v20.events.data.microsoft.com^
 ||au.umeng.co^
 ||au.umeng.com^
 ||au.vortex-win.data.microsoft.com^
@@ -3111,7 +3109,6 @@
 ||dcys.ijinshan.com^
 ||dd.nytimes.com^
 ||de-gmtdmp.mookie1.com^
-||de-v20.events.data.microsoft.com^
 ||de.ads.justpremium.com^
 ||de.ekolektor.com^
 ||de.inmobi.com^
@@ -3581,8 +3578,6 @@
 ||eu-gmtdmp.gd1.mookie1.com^
 ||eu-srv.apptornado.com^
 ||eu-tlx.3lift.com^
-||eu-v10.events.data.microsoft.com^
-||eu-v20.events.data.microsoft.com^
 ||eu-west.load.exelator.com^
 ||eu.adventori.com^
 ||eu.criteo.com^
@@ -4840,8 +4835,6 @@
 ||jp-g2.gumgum.com^
 ||jp-lb.gumgum.com^
 ||jp-tags.mediaforge.com^
-||jp-v10.events.data.microsoft.com^
-||jp-v20.events.data.microsoft.com^
 ||jp.cinarra.com^
 ||jp1-bid-ga.adsrvr.org^
 ||jp1-bid.adsrvr.org^
@@ -8129,7 +8122,6 @@
 ||terraviewbeat.com^
 ||terraviewfly.com^
 ||terraviewnow.com^
-||test.activity.windows.com^
 ||test.iyibakkendine.com^
 ||test1.thanakomdesign.com^
 ||testcentra.net^
@@ -8425,7 +8417,6 @@
 ||ufungamano.org^
 ||uitverkoop-koopjes.nl^
 ||uk-script.dotmetrics.net^
-||uk-v20.events.data.microsoft.com^
 ||uk.ads.justpremium.com^
 ||uk.vortex-win.data.microsoft.com^
 ||ukbusinessdaily.com^
@@ -8532,8 +8523,6 @@
 ||us-notify.bidagent.xad.com^
 ||us-sync.taboola.com^
 ||us-u.openx.net^
-||us-v10.events.data.microsoft.com^
-||us-v20.events.data.microsoft.com^
 ||us-vid-events.taboola.com^
 ||us-west-2.ecs.mb.moatads.com^
 ||us-west-2.event.prod.bidr.io^
@@ -8555,8 +8544,6 @@
 ||us1-sdk.bluedot.io^
 ||us1-spiky.wzrkt.com^
 ||us1.wzrkt.com^
-||us4-v20.events.data.microsoft.com^
-||us5-v20.events.data.microsoft.com^
 ||usasync01.admantx.com^
 ||usc.adserver.snapads.com^
 ||uscollector.tealeaf.ibmcloud.com^
@@ -8602,13 +8589,11 @@
 ||v1.addthis.com^
 ||v1.addthisedge.com.edgekey.net^
 ||v10-win.vortex.data.microsoft.com.akadns.net^
-||v10.events.data.microsoft.com^
 ||v10.vortex-win.data.microsoft.com^
 ||v2.chartboost.com^
 ||v2.dc.yieldify.com^
 ||v2.pixel.newscgp.com^
 ||v2.yieldlove-ad-serving.net^
-||v20.events.data.microsoft.com^
 ||v20.vortex-win.data.microsoft.com^
 ||v4r9z-3jgr1.ads.tremorhub.com^
 ||v4r9z-fjydq.ads.tremorhub.com^
