@@ -5,7 +5,7 @@
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
 ! Last modified: 28 Jun 2024 13:30 UTC
 ! Syntax: AdBlock
-! Number of entries: 9572
+! Number of entries: 9566
 !
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -3615,7 +3615,6 @@
 ||events.bouncex.net^
 ||events.browsiprod.com^
 ||events.cid.samba.tv^
-||events.data.microsoft.com^
 ||events.engager.ecbsn.com^
 ||events.foreseeresults.com^
 ||events.influencemobile.com^
@@ -4967,8 +4966,6 @@
 ||klog.hiido.com^
 ||klooo.nl^
 ||kmoskala.milleniumhost.pl^
-||kmwatson.events.data.microsoft.com^
-||kmwatsonc.events.data.microsoft.com^
 ||knkbuvq2.top^
 ||knorex.com^
 ||koffiekans.nl^
@@ -5872,7 +5869,6 @@
 ||nuvado.nl^
 ||nv.vi-serve.com^
 ||nvpx.adhost.se^
-||nw-umwatson.events.data.microsoft.com^
 ||nwcqntzx5i.com^
 ||nwcsvcs.com^
 ||nwelectrowinkel.com^
@@ -8436,8 +8432,6 @@
 ||ums.acuityplatform.com^
 ||ums.adtech.com^
 ||umtrack.com^
-||umwatson.events.data.microsoft.com^
-||umwatsonc.events.data.microsoft.com^
 ||umwatsonc.telemetry.microsoft.us^
 ||un5pcj8j0pkyemnr3jaj8.avlto.host^
 ||unallied-stand.000webhostapp.com^
