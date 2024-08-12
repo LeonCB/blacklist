@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 28 Jun 2024 13:30 UTC
+! Last modified: 12 Aug 2024 09:42 UTC
 ! Syntax: AdBlock
-! Number of entries: 9566
+! Number of entries: 9601
 !
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -1786,6 +1786,7 @@
 ||besttasimacilik.com.tr^
 ||bet365dhw.com^
 ||beta.pterosol.com^
+||betads.xyz^
 ||betaresourcesltd.com^
 ||betrad.com.edgekey.net^
 ||betravelst.com^
@@ -2110,6 +2111,7 @@
 ||cadace.in^
 ||cade.clmbtech.com^
 ||cadeiraspinto.com^
+||cainauhi.xyz^
 ||californiajacket.com^
 ||calsburns.ga^
 ||calzadocaley.com^
@@ -3147,6 +3149,7 @@
 ||deluxe.onetag.io.edgekey.net^
 ||demand.bidgear.com^
 ||demiddleeast.com^
+||demiseskill.com^
 ||demo-dev.fr^
 ||den01-event.spotxchange.com^
 ||den01-search.spotxchange.com^
@@ -3317,6 +3320,7 @@
 ||dpupr.lomboktengahkab.go.id^
 ||dr.socdm.com^
 ||dr080.com^
+||dragfault.com^
 ||dralpaslan.com^
 ||drank-apotheek.com^
 ||dream-camera.com^
@@ -3452,6 +3456,7 @@
 ||edhs85.com^
 ||edicolanazionale.it^
 ||educatedstrength.ru^
+||educationalapricot.com^
 ||edwardmann-my.sharepoint.com^
 ||eeq1s8pqpk.com^
 ||eevee.tv^
@@ -3530,6 +3535,7 @@
 ||enigreen.net^
 ||enjoythecom.fr^
 ||enloe6qtkd.com^
+||ensuebusinessman.com^
 ||entitlements.jwplayer.com^
 ||entitlements.kochava.com^
 ||entre-potes.mon-application.com^
@@ -3732,6 +3738,7 @@
 ||fdz.flashtalking.com^
 ||feedimages.simpli.fi^
 ||fegatech.com^
+||femalehasslegloss.com^
 ||fenoma.net^
 ||fenrir-resolver.aprod.scopely.io^
 ||ferrylegal.com^
@@ -3847,6 +3854,7 @@
 ||fota5tbk.adups.com^
 ||fotacontrol.adfuture.cn^
 ||foto-koncerty.info^
+||fourteenthcongratulate.com^
 ||fox.com.ssl.d2.sc.omtrdc.net^
 ||foxnet.demdex.net^
 ||foxnews.demdex.net^
@@ -3878,6 +3886,7 @@
 ||front-logs.voodoo-ads.io^
 ||frostyc.com^
 ||frtn.socdm.com^
+||fruitnotability.com^
 ||fruitproducts1111.webhop.me^
 ||fs12n1.sendspace.com^
 ||fs12n2.sendspace.com^
@@ -4158,6 +4167,7 @@
 ||gudja.iad-02.braze.com^
 ||guess.mediav.com^
 ||guest-room.net^
+||guestblackmail.com^
 ||guitarepourdebutant.fr^
 ||gum.criteo.com^
 ||gum.da1.vip.prod.criteo.com^
@@ -4537,6 +4547,7 @@
 ||ieonlinews.microsoft.com^
 ||ieonlinews.trafficmanager.net^
 ||ifirim.com^
+||ifsnickshriek.com^
 ||ignifyecom.s3.amazonaws.com^
 ||igp06.gameloft.com^
 ||igrejayhwh.com^
@@ -4686,6 +4697,7 @@
 ||innocentvariety.com^
 ||innovid.com.akadns.net^
 ||innovid.com.edgekey.net^
+||inoculateconsessionconsessioneuropean.com^
 ||insideruser.trafficmanager.net^
 ||insight.adsrvr.org^
 ||insightexpressai.com.edgekey.net^
@@ -4711,6 +4723,7 @@
 ||interworlddelivery.com^
 ||intouch.arcsoft.com^
 ||intranet.utrng.edu.mx^
+||intuitiontrenchproduces.com^
 ||inv-nets-eu.admixer.net^
 ||invented-wishes.000webhostapp.com^
 ||inventory.vidazoo.com^
@@ -5902,6 +5915,7 @@
 ||ocx.umeng.com^
 ||odfknhdujd.github.io^
 ||odr.mookie1.com^
+||odroidhc4^
 ||odufh13vjw.com^
 ||ofertasmagaluizabussinesbrasilrevendedor.com^
 ||ofertasprodutosmm.com^
@@ -5974,6 +5988,7 @@
 ||openx.adhaven.com^
 ||openxdisplay970503469688.s.moatpixel.com^
 ||openxvideo114183407631.s.moatpixel.com^
+||opportunitybrokenprint.com^
 ||opps.taboola.com^
 ||ops-cdn.undertone.com^
 ||opt.ximad.com^
@@ -6199,6 +6214,7 @@
 ||phonograph2.voxmedia.com^
 ||photopicstudio.com^
 ||phunware.com^
+||physicalnecessitymonth.com^
 ||physicsbeckons.com^
 ||pi.pardot.com^
 ||picasonaturals.com^
@@ -6606,6 +6622,7 @@
 ||ramazanda20gb.xyz^
 ||rambler.pushwoosh.com^
 ||randys-woods.com^
+||rapidshookdecide.com^
 ||rashiayurveda.in^
 ||rat.fr.eu.criteo.com^
 ||rat.nl.eu.criteo.com^
@@ -6958,6 +6975,7 @@
 ||sanalytics.verizon.com^
 ||sanalytics.verizonwireless.com^
 ||sanctified-gap.000webhostapp.com^
+||sanctifylensimperfect.com^
 ||sandbox.tinypass.com^
 ||sanfranciscoeventspace.com^
 ||sanjoaquinvalleybrewfest.com^
@@ -7352,6 +7370,7 @@
 ||signin.ebayde.isap.ebyisapi.dl.signin.de.usingssl.tech^
 ||signup.totalav.com^
 ||silana-mode.com^
+||sillinessmarshal.com^
 ||silvapam.ro^
 ||silver-fir.cd.segmentapis.com^
 ||simage2.pubmatic.com^
@@ -7778,6 +7797,7 @@
 ||stephenmould.com^
 ||stereovision.biz^
 ||stevewalker.com.au^
+||stickingrepute.com^
 ||stickyadstv.com.akadns.net^
 ||stiiipee.com^
 ||stimmwissenschaften.de^
@@ -7820,6 +7840,7 @@
 ||stx-assets.sharethrough.com^
 ||su.addthis.com^
 ||subatomic-itinerary.000webhostapp.com^
+||subqueryrewinddiscontented.com^
 ||subway2016.tt.omtrdc.net^
 ||succesfietsen.com^
 ||sucursal-virtualgrupobancolombia.com.co^
@@ -8103,6 +8124,7 @@
 ||telemetry.servers.getgo.com^
 ||telemetry.urs.microsoft.com^
 ||telsiai.info^
+||tempergleefulvariability.com^
 ||tempest.services.disqus.com^
 ||tend.io^
 ||tendentious-bands.000webhostapp.com^
@@ -8149,6 +8171,7 @@
 ||theramer.ga^
 ||therealabd.ca^
 ||theremedycenter.com^
+||thereuponscare.com^
 ||thermas.by^
 ||thesamanthastories.com^
 ||thesquid-gamemerch.com^
@@ -8159,10 +8182,12 @@
 ||thevision.ro^
 ||thewintershops.com^
 ||theyogalinaproject.com^
+||thiefbeseech.com^
 ||thind.unityads.unity3d.com^
 ||thinknear-hosted.thinknearhub.com^
 ||thuiswinkel-online.nl^
 ||thumbnail.smartnews-ads.com^
+||thumpdrownthreat.com^
 ||thumpmagical.top^
 ||thxczhfzad.com^
 ||ti.domainforlite.com^
@@ -8344,10 +8369,12 @@
 ||trk.superads.cn^
 ||trk.tidaltv.com^
 ||trk.wdacashtrk.com^
+||trkbc.com^
 ||trophaxbrand.com ^
 ||trophaxbrand.com^
 ||trophaxbrande.com^
 ||truex.com^
+||trumppuffy.com^
 ||truoptik.com^
 ||tsatest-812.tk^
 ||tt.omtrdc.net^
@@ -8491,6 +8518,7 @@
 ||update9.cte.99.com^
 ||updater.lionmobi.com^
 ||updaterequired.hopto.org^
+||upgulpinon.com^
 ||upload.mobpowertech.com^
 ||ups.analytics.yahoo.com^
 ||ups.demdex.net^
@@ -8777,6 +8805,7 @@
 ||vogelexpress.com^
 ||volare.co.ls^
 ||volona.store^
+||voluntarilylease.com^
 ||voordeelshopper.store^
 ||voordeelweken.store^
 ||vortex-sandbox.data.microsoft.com^
@@ -8829,6 +8858,7 @@
 ||wall.adgaterewards.com^
 ||wandjoo.com^
 ||wangtong7.siweidaoxiang.com^
+||wantedjeff.com^
 ||ware.ru^
 ||warmte24.nl^
 ||warmworden.com^
@@ -8836,6 +8866,7 @@
 ||Washmachine.nl^
 ||wass.ihsmarkit.com^
 ||wat.ad.daum.net^
+||wateryzapsandwich.com^
 ||watson.live.com^
 ||watson.microsoft.com^
 ||watson.ppe.telemetry.microsoft.com^
@@ -8933,6 +8964,7 @@
 ||widgets.zemanta.com^
 ||wiebe-sanitaer.de^
 ||wifi-test.mobidia.com^
+||wigsynthesis.com^
 ||wijnrekkenmuur.nl^
 ||wildcard-ads-448740142.us-west-2.elb.amazonaws.com^
 ||wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com^
@@ -8964,6 +8996,7 @@
 ||wireless-fido.info^
 ||wish.securedtouch.com^
 ||withdrawusdt.8pa.co^
+||withdrewparliamentwatery.com^
 ||wl.aniview.com.edgekey.net^
 ||wlb1.cdn.stickyadstv.com.akadns.net^
 ||wlb2.cdn.stickyadstv.com.akadns.net^
@@ -8978,6 +9011,7 @@
 ||wo.rentalshackapp.com^
 ||womanbeauty.nl^
 ||womani.nl^
+||womenvocationanxious.com^
 ||womtrend.nl^
 ||wood-expert.net^
 ||wooder-be.com^
@@ -9394,6 +9428,7 @@
 ||www.vastugyaan.in^
 ||www.vblaeyen.gq^
 ||www.vidsdelivery.com^
+||www.voluntarilylease.com^
 ||www.vvff.in^
 ||www.vy4e3jw46l.com^
 ||www.wagroup18.h3d.shop^
