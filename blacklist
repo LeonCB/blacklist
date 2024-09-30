@@ -3,11 +3,10 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 12 Aug 2024 10:12 UTC
+! Last modified: 30 Sep 2024 10:12 UTC
 ! Syntax: AdBlock
-! Number of entries: 9045
+! Number of entries: 9034
 !
-
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
 ||0-168.com^
@@ -208,10 +207,6 @@
 ||9ed5f5b4.api.splkmobile.com^
 ||9ib5cxi9e0.com^
 ||9ws3wutazo.com^
-||Speelgoed-outlet.com^
-||Strijkwonder.nl^
-||Vaatmaster.nl^
-||Washmachine.nl^
 ||a-fds.youborafds01.com^
 ||a-laptops.info^
 ||a.a.3483.fhug.5875.dhirt.4989.rgkhr.594k.egih.dg4r4t.clearpointsupplies.com^
@@ -3068,6 +3063,7 @@
 ||displayf.tubemogul.com^
 ||ditec.com.my^
 ||diuretic-jury.000webhostapp.com^
+||dividendgrowthstart.com^
 ||divinevacations.in^
 ||diyspace.com.pk^
 ||djfreshtech.in^
@@ -3188,6 +3184,7 @@
 ||dutch-designeroutlet.com^
 ||dutchsport.net^
 ||dvgtm.akadns.net^
+||dvidendgrowthstart.com^
 ||dwarkakalibari.com^
 ||dx.198424.com^
 ||dx2.qqtn.com^
@@ -4233,7 +4230,6 @@
 ||i4yfew0k6j.com^
 ||i62po37g.com^
 ||i9zqq3fj.top^
-||iBuyy.nl^
 ||iab-imp-gateway.supersonicads.com^
 ||iabmap.evidon.com^
 ||iad-01.braze.com^
@@ -4262,6 +4258,7 @@
 ||ib.sin1.geoadnxs.com^
 ||ibilisk.iad-01.braze.com^
 ||ibrape.org.br^
+||ibuyy.nl^
 ||ic.de.inmobi.com^
 ||icdglass.com^
 ||ice-cube-frosts.000webhostapp.com^
@@ -7114,6 +7111,7 @@
 ||sparkusdiscoverdcm781744349491.s.moatpixel.com^
 ||speaker-world.nl^
 ||spectrum.s3.amazonaws.com^
+||speelgoed-outlet.com^
 ||speelmeer-teck.com^
 ||spell.itim.vn^
 ||spendengrave.com^
@@ -7363,6 +7361,7 @@
 ||strato-mail.webmail.petrocomen.com^
 ||streamguys.deliveryengine.adswizz.com^
 ||streamlare.com^
+||strijkwonder.nl^
 ||stronglycommit.com^
 ||strtesr4.beget.tech^
 ||strtrk.adacado.com^
@@ -8119,6 +8118,7 @@
 ||va1.vip.prod.criteo.com^
 ||va1.vip.prod.criteo.net^
 ||va6-bid.adsrvr.org^
+||vaatmaster.nl^
 ||vabid.prod.sift.co^
 ||vacationintucson.com^
 ||vaccinatieboekje.org^
@@ -8327,6 +8327,7 @@
 ||warmte24.nl^
 ||warmworden.com^
 ||warp.media.net^
+||washmachine.nl^
 ||wass.ihsmarkit.com^
 ||wat.ad.daum.net^
 ||watson.telemetry.microsoft.com^
