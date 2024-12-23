@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 30 Sep 2024 10:12 UTC
+! Last modified: 23 Dec 2024 22:40 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9034
+! Number of entries: 9035
 !
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -2018,6 +2018,7 @@
 ||cat.va.us.criteo.com^
 ||cat.va1.vip.prod.criteo.com^
 ||causeweight-loss.world^
+||cavesmasters.boutique^
 ||caxvm62zyz.com^
 ||cb.sailthru.com^
 ||cbcnewmedia.pushwoosh.com^
@@ -8351,6 +8352,7 @@
 ||webapi.hot-mob.com^
 ||webarte.com.br^
 ||webcanal.000webhostapp.com^
+||www.cavesmasters.boutique^
 ||webdealzsearch.com^
 ||weberms.com^
 ||weberspro.com^
