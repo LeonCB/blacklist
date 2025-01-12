@@ -3,14 +3,17 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 12 Jan 2025 11:54 (GMT+1)
+! Last modified: 12 Jan 2025 12:01 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9195
+! Number of entries: 9268
 !
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
 ||0-168.com^
 ||0-800-email.com^
+||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
+||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
+||0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||0118e48f-af4a-4da1-96bb-2144cc761ab0.nuid.imrworldwide.com^
 ||05y2dxmr.top^
 ||0ce3c-1fd43.api.pushwoosh.com^
@@ -496,6 +499,16 @@
 ||adwin.startappservice.com^
 ||adx-asia-imp.aarki.net^
 ||adx-asia.aarki.net^
+||adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn^
+||adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn^
+||adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
+||adx-dra-op-hicloud-com-dra.appacc.dbankedge.cn^
+||adx-dra-op-hicloud-com-dra.edge.dbankedge.cn^
+||adx-dra.op.dbankcloud.com^
+||adx-drcn.op.dbankcloud.cn^
+||adx-dre.op.dbankcloud.com.edgekey.net^
+||adx-dre.op.dbankcloud.com^
+||adx-drru.op.dbankcloud.com^
 ||adx-west-imp.aarki.net^
 ||adx-winners-ap-southeast-1-rtb.adroll.com^
 ||adx-winners-eu-west-1-rtb.adroll.com^
@@ -1730,6 +1743,7 @@
 ||brort.stsdk.vivo.com.cn^
 ||brown-seeds.com^
 ||browse-endpoint.brontops.com^
+||browsercfg-drcn.cloud.dbankcloud.cn^
 ||brpnrt.stsdk.vivo.com.cn^
 ||brprt.stsdk.vivo.com.cn^
 ||brushnrollinc.com^
@@ -2815,6 +2829,9 @@
 ||datacloud-us-east-1.tealiumiq.com^
 ||datacloud.tealiumiq.com^
 ||datacollector-dra.dt.dbankcloud.cn^
+||datacollector-drcn.dt.dbankcloud.cn^
+||datacollector-dre.dt.dbankcloud.cn^
+||datacollector-drru.dt.dbankcloud.ru^
 ||dataforce.co.uk^
 ||datam16.adlooxtracking.com^
 ||datapolish.com^
@@ -3020,6 +3037,8 @@
 ||dmpsync.3lift.com^
 ||dmx.districtm.io^
 ||dnd-international.com^
+||dnkeeper.dbankcloud.com^
+||dnkeeper.platform.dbankcloud.cn^
 ||dnr51y6xj4.com^
 ||dnsdelegation.io^
 ||dobadongthap.vn^
@@ -3385,6 +3404,24 @@
 ||event.spotxchange.com^
 ||eventmanagementbali.com^
 ||events-api.otherlevels.com^
+||events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn^
+||events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn^
+||events-dra-op-dbankcloud-cn-dra.edge.dbankedge.cn^
+||events-dra-op-dbankcloud-cn-dra.region.dbankedge.cn^
+||events-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn^
+||events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn^
+||events-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
+||events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn^
+||events-dra-op-hicloud-com-dra.appacc.dbankedge.cn^
+||events-dra-op-hicloud-com-dra.edge.dbankedge.cn^
+||events-drcn.op.dbankcloud.cn^
+||events-drcn.op.dbankcloud.com^
+||events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn^
+||events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn^
+||events-dre-op-hicloud-com-dre.appacc.dbankedge.cn^
+||events-dre.op.dbankcloud.com^
+||events-op-hicloud-com-drcn.appacc-region.dbankedge.net^
+||events-op-hicloud-com-drcn.appacc.dbankedge.net^
 ||events-us-east-1.ipredictive.com^
 ||events-us-west-2.ipredictive.com^
 ||events.aerserv.com^
@@ -3933,6 +3970,22 @@
 ||groupfrancegff.com^
 ||grouponacties.nl^
 ||growlr.adsbynimbus.com^
+||grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn^
+||grs-dbankcloud-asia-dra.appacc.dbankedge.cn^
+||grs-dbankcloud-com-dra.appacc-region.dbankedge.cn^
+||grs-dbankcloud-com-dra.appacc.dbankedge.cn^
+||grs-dbankcloud-com-dra.edge.dbankedge.cn^
+||grs-dbankcloud-com-dra.region.dbankedge.cn^
+||grs-dbankcloud-com-drcn.wec.dbankedge.cn^
+||grs-dbankcloud-com-dre.appacc-region.dbankedge.cn^
+||grs-dbankcloud-com-dre.appacc.dbankedge.cn^
+||grs-dbankcloud-com-dre.edge.dbankedge.cn^
+||grs-dbankcloud-com-dre.region.dbankedge.cn^
+||grs.dbankcloud.asia^
+||grs.dbankcloud.cn^
+||grs.dbankcloud.com^
+||grs.dbankcloud.eu^
+||grs.platform.dbankcloud.ru^
 ||grsilver.hu^
 ||grup-join-whatsapp.vizvaz.com^
 ||grup-whatsapp-invite.zzux.com^
@@ -4068,6 +4121,7 @@
 ||hg8cdp9g2m.com^
 ||hgwijlhuizen.com^
 ||hibids5.com^
+||hicloud.com^
 ||hierarchic-fish.000webhostapp.com^
 ||highcpms.com^
 ||hiking-pantsshop.com^
@@ -4075,6 +4129,7 @@
 ||hippiatric-nomencla.000webhostapp.com^
 ||hippieverkoop.com^
 ||hiram.iad-03.braze.com^
+||hisearch-dra.dt.dbankcloud.com^
 ||hit.stat24.com^
 ||hixinsite.com^
 ||hk-gmtdmp.mookie1.com^
@@ -5065,6 +5120,8 @@
 ||logs.81plug.com^
 ||logs.datadoghq.com^
 ||logserver.insight.ucweb.com^
+||logservice-dre.platform.dbankcloud.cn^
+||logservice1.dbankcloud.com^
 ||logx.optimizely.com^
 ||loisamsterdam.com^
 ||lomenzo.store^
@@ -5373,10 +5430,21 @@
 ||metabet.static.areyouwatchingthis.com^
 ||metallexs.com^
 ||metricreceiver.cellrebel.com^
+||metrics-dra.dt.dbankcloud.cn^
+||metrics-dre.data.dbankcloud.cn^
+||metrics-dre.dt.dbankcloud.cn^
 ||metrics.aetn.com^
+||metrics.dt.dbankcloud.cn^
 ||metrics.fedex.com^
 ||metrics.fidelity.com.edgekey.net^
 ||metrics.hackerrank.com.edgekey.net^
+||metrics1-data-hicloud-com.ge.dbankedge.cn^
+||metrics1-data-hicloud-com.gere.dbankedge.cn^
+||metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn^
+||metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn^
+||metrics1-drcn.dt.dbankcloud.cn^
+||metrics1.data.dbankcloud.cn^
+||metrics5.dt.dbankcloud.ru^
 ||metricscollector.lp.xcal.tv^
 ||metropcs.mobileposse.com^
 ||meubel-baas.nl^
@@ -5914,6 +5982,8 @@
 ||openapi.cymera.com^
 ||openbid.pubmatic.com^
 ||openhaardhout-nl.shop^
+||openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn^
+||openlocation-drcn.platform.dbankcloud.com^
 ||openrtb.cootlogix.com^
 ||opensharecount.com^
 ||openx.adhaven.com^
@@ -8363,6 +8433,8 @@
 ||uaid-linkage.imrworldwide.com^
 ||ualsi.test3d0.it^
 ||uanederlandwinkel.com^
+||ubacollect-drcn.cloud.dbankcloud.cn^
+||ubacollect-drcn.cloud.dbankcloud.co^
 ||uberm.bttn.io^
 ||ubimoinappdisplay34181600889.s.moatpixel.com^
 ||ubmjooopas.webcindario.com^
