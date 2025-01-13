@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 12 Jan 2025 18:05 (GMT+1)
+! Last modified: 13 Jan 2025 15:28 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9326
+! Number of entries: 9377
 !
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -726,6 +726,7 @@
 ||anizablevetor.pro^
 ||annabrickhousegrill.ru^
 ||annalarson.net^
+||annemode.nl^
 ||annhienco.com.vn^
 ||anodyneimaging.com^
 ||ansaydevelopment.com^
@@ -1211,6 +1212,7 @@
 ||asia.seadform.net^
 ||asiacontracting.com^
 ||asicsoutletnederland.com^
+||asicsoutletnederlands.com^
 ||asimov-win.settings.data.microsoft.com.akadns.net^
 ||ask.log.kuyun.com^
 ||aspremum.cfd^
@@ -1321,6 +1323,7 @@
 ||avd.innity.com^
 ||avd.innity.net^
 ||avenidasuitesbrazil.com^
+||avenue-mode.nl^
 ||avl9hvh0.top^
 ||avn.innity.com^
 ||avocarrot.com^
@@ -1496,6 +1499,7 @@
 ||bemorio-nl.com^
 ||ben-brennholz.nl^
 ||bendrio.nl^
+||beneluxboutique.nl^
 ||benhamcollection.com^
 ||bennanivastgoed.nl^
 ||benoitbois.com^
@@ -2274,6 +2278,7 @@
 ||certify.alexametrics.com^
 ||ceuswatcab01.blob.core.windows.net^
 ||ceuswatcab02.blob.core.windows.net^
+||cevora.nl
 ||cf-cdn.adventori.com^
 ||cf-us-popular.dash.pv-cdn.net^
 ||cf.adxcel.com^
@@ -2569,6 +2574,7 @@
 ||connect.tapjoy.com^
 ||connect00bofa.dyndns.org^
 ||connectniche.com^
+||conrad.cf^
 ||consent.mediaforge.com^
 ||consertolar.com.br^
 ||console.adtarget.com.tr^
@@ -2647,6 +2653,7 @@
 ||count.personyze.com^
 ||counter.kingsoft.com^
 ||counter.yadro.ru^
+||courepuro.nl
 ||couvinchauffage.com^
 ||coverbd.com^
 ||covere.nl^
@@ -2902,7 +2909,8 @@
 ||dekattenbak.nl^
 ||dekinderhoek.nl^
 ||dekleinmode.nl^
-||Delftsegroep.com^
+||delederwarenambacht.nl^
+||delftsegroep.com^
 ||delgadaygordo.com^
 ||delivery.adnetwork.vn^
 ||delivery.advanseads.com^
@@ -2932,6 +2940,7 @@
 ||desginer-outlet.nl^
 ||design69design.be^
 ||design69design.com^
+||designer-outlet.nl^
 ||designerjeddah.com^
 ||desikilitmarket.com^
 ||despeelgoedkoning.com^
@@ -3247,6 +3256,7 @@
 ||egwtrade.com^
 ||ei-event-collector.us-east-1.elasticbeanstalk.com^
 ||ei.rlcdn.com^
+||eileenmode.com^
 ||eilever.com^
 ||eindejaarsdeals.com^
 ||eirxka.xtechspro.com^
@@ -3293,6 +3303,7 @@
 ||em.dynamicyield.com^
 ||emarketing.sina.com.cn^
 ||embed.secondstreetapp.com^
+||emberantwerp.be^
 ||emelie-wied.de^
 ||emersonribeirofotografias.com.br^
 ||emir-elbahr.com^
@@ -3345,6 +3356,8 @@
 ||erhaelectro.eu^
 ||ericgang.com^
 ||erikapropiedades.com^
+||erikson-fashion.com^
+||eriksøn-fashion.com^
 ||erkankaratas.com.tr^
 ||erotica-massage.nl^
 ||err.izooto.com^
@@ -3565,6 +3578,7 @@
 ||femmelins.nl^
 ||fenoma.net^
 ||fenrir-resolver.aprod.scopely.io^
+||ferienpiraten.ch^
 ||ferrylegal.com^
 ||fertway.com.br^
 ||fev.fyber.com^
@@ -3828,6 +3842,7 @@
 ||gemmandir.com^
 ||gencon010-my.sharepoint.com^
 ||genesisconstruction.co.za^
+||genevatrends.nl^
 ||geo-tracker.smadex.com^
 ||geo.adpushup.com^
 ||geo.celtra.com^
@@ -4124,6 +4139,7 @@
 ||help.padipos.id^
 ||helpdesk-appleaccount-inc-verifyidonline-termination.gyldige.com^
 ||hemanl.shop^
+||henk-brouwer.nl^
 ||herfst-aanbiedingen.nl^
 ||herralum.com.mx^
 ||hethuisvanhout.com^
@@ -4240,6 +4256,7 @@
 ||hokanederland.com^
 ||hokibolt.hu^
 ||holidaycustompools.com^
+||holidaypirates.com^
 ||hollandsekorting.store^
 ||hollandsemedici.com^
 ||hollykim.com^
@@ -4423,6 +4440,7 @@
 ||idsync.segment.com^
 ||ieonlinews.microsoft.com^
 ||ieonlinews.trafficmanager.net^
+||ifachauffage.com^
 ||ifirim.com^
 ||ignifyecom.s3.amazonaws.com^
 ||igp06.gameloft.com^
@@ -4674,11 +4692,13 @@
 ||jamiat.org.pk^
 ||janesvillegranprix.com^
 ||jansen-zwolle.com^
+||jansen-zwolle.nl^
 ||jansenhaardhout.com^
 ||janssenschoenen.nl^
 ||japanmade.com^
 ||jaysuntravels.com^
 ||jazzitup.pl^
+||jblonline.shop^
 ||jdairforce.nl^
 ||jdih.sambas.go.id^
 ||jdsportofficieel.nl^
@@ -4699,6 +4719,7 @@
 ||jivanta.nl^
 ||jltriangle.com^
 ||jobbeengine.com^
+||jocabee.nl^
 ||jocuri.trophygaming.net^
 ||jogger.zdbb.net^
 ||john-holden.com^
@@ -4921,6 +4942,7 @@
 ||ku365-my.sharepoint.com^
 ||kubanuchpribor.ru^
 ||kuhls2ao.top^
+||kuipers-mode.nl^
 ||kukubun.com^
 ||kundencenterionos-id234ionos.store^
 ||kupaliskohs.sk^
@@ -4929,6 +4951,7 @@
 ||kwanfromhongkong.com^
 ||kwikomfi-lab.com^
 ||kyana-amsterdam.nl^
+||kyla-amsterdam.com^
 ||kylebeard.com^
 ||kymobilemediahosting.com^
 ||kyson.ad.daum.net^
@@ -4954,9 +4977,11 @@
 ||labs-cdn.revcontent.com^
 ||lacerta.iad-03.appboy.com^
 ||lacerta.iad.appboy.com^
+||ladyessential.nl^
 ||laixuela.com^
 ||lakefm.co.tz^
 ||lamellose-perfect.000webhostapp.com^
+||lamerode.nl^
 ||lammaixep.com^
 ||languageadda.com^
 ||laptop-shop.info^
@@ -5048,6 +5073,7 @@
 ||lightning.cnn.com^
 ||lightstep-collector.api.ua.com^
 ||lijflied.nl^
+||lijit.com^
 ||lilahuis.com^
 ||lilian-fashion.com^
 ||lilian-mode.com^
@@ -5182,6 +5208,7 @@
 ||luminova-home.nl
 ||lumpiest-arrival.000webhostapp.com^
 ||lunapienashop.it^
+||lunevo.nl^
 ||luvon-nl.com^
 ||luvonnetherlands.com^
 ||luxeamsterdam.com^
@@ -5237,6 +5264,7 @@
 ||macromill.com^
 ||macsaregreat.com^
 ||madalenia.myshopify.com^
+||madelina-blaricum.nl^
 ||madelive.shop^
 ||madison-maastricht.com^
 ||madisonlee.app.link^
@@ -5359,6 +5387,7 @@
 ||mavlino.store^
 ||mavumo.nl^
 ||max-l.mediav.com^
+||maxismuiden.nl^
 ||maxpointimpression857454451729.s.moatpixel.com^
 ||mazury4x4.pl^
 ||mazzottadj.com^
@@ -5440,6 +5469,8 @@
 ||melina.aslan.kim^
 ||memoriasusbperu.com^
 ||mena-gmtdmp.mookie1.com^
+||mensheritage.com^
+||mensheritage.nl^
 ||menzel.com.br^
 ||mephistoschoenennl.com^
 ||meraxes-cdn.polarmobile.com^
@@ -5472,6 +5503,7 @@
 ||metropcs.mobileposse.com^
 ||meubel-baas.nl^
 ||meubel-fabriek.com^
+||meubel-wereld.com^
 ||meubels-24.com^
 ||meubelshopbe.com^
 ||meubelsvoordeel-nl.com^
@@ -5570,6 +5602,7 @@
 ||mode-etikett.com^
 ||mode-wereld.nl^
 ||modeboss.com^
+||modeglans.nl^
 ||modehuis-jansen.com^
 ||modehuis-jansen.nl^
 ||modehuisbakker.nl^
@@ -5595,6 +5628,7 @@
 ||mon-makeup.com^
 ||mon-va.tiktokv.com^
 ||monaro.nl^
+||mondossa.nl^
 ||monicanoue.com^
 ||monitor.clickcease.com^
 ||montage-boutique.com^
@@ -5855,6 +5889,7 @@
 ||nordic-convulsion.000webhostapp.com^
 ||nordic-design.nl^
 ||nordic-outfits.000webhostapp.com^
+||nordicci.nl^
 ||nordicdesigns.nl^
 ||nordicsocks.nl^
 ||nordicwool.nl^
@@ -6001,6 +6036,7 @@
 ||onzelly.com^
 ||onzely.com^
 ||oohlalasings.com^
+||oowfashion.nl^
 ||opaymentsshawbill.is-a-hard-worker.com^
 ||open.adview.cn^
 ||open.inc2.igexin.com^
@@ -6118,7 +6154,7 @@
 ||pakariklan.com^
 ||pakistanprinters.com^
 ||pakistanreforminitiative.org^
-||PakJeDealsNu.nl^
+||pakjedealsnu.nl^
 ||palamdwarkadurgapoojasamiti.com^
 ||paleisvanjuwelen.com^
 ||palimas.ru^
@@ -6271,6 +6307,7 @@
 ||pingtcss.qq.com^
 ||pinksneakers.nl^
 ||pinterest.adsymptotic.com^
+||piratinviaggio.it^
 ||pitmansticks.com^
 ||piwik.inlupus.at^
 ||pix-us.revjet.com^
@@ -6448,6 +6485,7 @@
 ||prebid.technoratimedia.com^
 ||preferences.truste.com^
 ||premium-mode.shop^
+||premiumpelletsdirect.com^
 ||premiumsrv.aniview.com^
 ||premiumverwarming.com^
 ||prenatal-sane.shop^
@@ -6550,7 +6588,9 @@
 ||punnetthomes.com^
 ||puranic-chiefs.000webhostapp.com^
 ||purch-sync.go.sonobi.com^
+||pure-amsterdam.nl^
 ||pure-hosting.de^
+||pureamsterdam.nl^
 ||purings.com^
 ||purpledigits.com^
 ||purplesblog.com^
@@ -6994,6 +7034,7 @@
 ||saledebijenkorf.nl^
 ||sales-corner.nl^
 ||sales.idio.co^
+||salewoonaccessoires.com^
 ||sallow-jewel.000webhostapp.com^
 ||salomomoutletnederland.com^
 ||salomooutletnederland.com^
@@ -7019,6 +7060,7 @@
 ||sapph.nl^
 ||sappigedeals.com^
 ||sappigedeals.site^
+||sappigegrillwinkel.com^
 ||sarahyrte.000webhostapp.com^
 ||saralovehome-nl.com^
 ||sardardhambhavnagar.org^
@@ -7045,6 +7087,10 @@
 ||scandinavianwool.com^
 ||scandinavianwool.de^
 ||scandinavianwool.nl^
+||scapinoo.shop^
+||scapinooo.com^
+||scapinooo.nl^
+||scapinooo.shop^
 ||scarf.ensighten.com^
 ||scarletfilmsltd.com^
 ||scheepens-groningen.nl^
@@ -7173,12 +7219,14 @@
 ||seasonkinderwagen.com^
 ||seasportstravel.com^
 ||sebago-nederland.com^
+||sebago-nederlands.com^
 ||sec-citi.bridgetrack.com^
 ||sec.umeng.com^
 ||seccdn-gl.imrworldwide.com^
 ||secondstreetapp.com^
 ||secpssotel.us^
 ||secredesc.000webhostapp.com^
+||secretseason.nl^
 ||secure-05b.azurewebsites.net^
 ||secure-account-info.openvcsme.cf^
 ||secure-adnxs.edgekey.net^
@@ -7374,7 +7422,6 @@
 ||shoesmeonline.sa.com^
 ||shoex.nl^
 ||shop.indiateq.co.in^
-||shop.misterbarish.be^
 ||shop.onlineoutlet2021.ru^
 ||shop.rautelatech.com^
 ||shoparty.metrilo.com^
@@ -7603,7 +7650,6 @@
 ||sparkusdiscoverdcm781744349491.s.moatpixel.com^
 ||speaker-world.nl^
 ||spectrum.s3.amazonaws.com^
-||Speelgoed-outlet.com^
 ||speelgoed-outlet.com^
 ||speelmeer-teck.com^
 ||spell.itim.vn^
@@ -7897,6 +7943,7 @@
 ||suncorpau.secureaccountupdateings.com.d.wbsprt.com^
 ||sundaysky-partners.tremorhub.com^
 ||sundaysky-sync-us.teads.tv^
+||sunnah-amsterdam.nl^
 ||sunnyitems.nl^
 ||sup-port-app.kozow.com^
 ||super-ofertas.hopto.org^
@@ -8205,6 +8252,7 @@
 ||thebusstop.app^
 ||thecomicshop.net^
 ||thecouponstock.icu^
+||thedrops.nl^
 ||thefootshop.nl^
 ||thegoodthingscafe.com^
 ||theingredients.net^
@@ -8213,8 +8261,10 @@
 ||themarbleshop.sharepoint.com^
 ||thematchinterim.top^
 ||thenewswithrobin.com^
+||thenils.nl^
 ||theoremreach.com^
 ||theprestige.ro^
+||theprestiges.nl^
 ||theptiendat.com^
 ||theramer.ga^
 ||therealabd.ca^
@@ -8231,6 +8281,7 @@
 ||thetradedeskinnovidmaster582779829774.s.moatpixel.com^
 ||thetradedeskv275874568748.s.moatpixel.com^
 ||thevision.ro^
+||thevogue.nl^
 ||thewintershops.com^
 ||theyogalinaproject.com^
 ||thriftyformals.com^
@@ -8263,6 +8314,7 @@
 ||tiseopavingco-my.sharepoint.com^
 ||titan-valves.com^
 ||titaniumdobrasil.com.br^
+||tivane.nl^
 ||tj.ijinshan.com^
 ||tj9pcnb2ws.com^
 ||tkclick.smardroid.com^
@@ -8284,6 +8336,7 @@
 ||tombakkers.com^
 ||tonghopgia.net^
 ||tonygaming.000webhostapp.com^
+||toonschoenen.nl^
 ||top-bestprize.life^
 ||top-one.ru^
 ||top.faqtoids.com^
@@ -8291,6 +8344,7 @@
 ||topkulinerenak.com^
 ||toppynl.com^
 ||toprankingyoutube.com^
+||topticketshop.nl^
 ||tor-capital.com^
 ||torentor.ru^
 ||torrentdownloads.piraproxy.app^
@@ -8396,6 +8450,7 @@
 ||transturkiston.uz^
 ||trapstarnederland-nl.com^
 ||traveda.nl^
+||travelpirates.com^
 ||travemoo.de^
 ||travisusd-my.sharepoint.com^
 ||travx.com^
@@ -8403,7 +8458,6 @@
 ||travx.eu^
 ||travx.nl^
 ||travx.no^
-||travx.uk^
 ||travx.uk^
 ||travxbeauty.com^
 ||travxstore.se^
@@ -8432,9 +8486,9 @@
 ||trk.tidaltv.com^
 ||trk.wdacashtrk.com^
 ||trkbc.com^
-||trophaxbrand.com ^
 ||trophaxbrand.com^
 ||trophaxbrande.com^
+||tropy.nl^
 ||truex.com^
 ||tsatest-812.tk^
 ||tshirt-factory.eu^
@@ -8585,9 +8639,12 @@
 ||uptowndentalgigharbor.com^
 ||urbanstyle-zwolle.nl^
 ||urbanwear-utrecht.nl^
+||urbanza.nl^
 ||urgentmessage.org^
 ||url.totalav.com^
 ||url.tudown.com^
+||urlaubspiraten.at^
+||urlaubspiraten.de^
 ||us-1.gladly.com^
 ||us-central.load.exelator.com^
 ||us-central1-adaptive-growth.cloudfunctions.net^
@@ -8698,15 +8755,19 @@
 ||vafw.adsafeprotected.com^
 ||vai.promo^
 ||vaishalienterprises.com^
+||vakantiepiraten.nl^
+||valare.nl^
 ||valencaagora.com.br^
 ||valero.store^
 ||validate.onecount.net^
 ||validator.lomadee.com^
 ||valleyveedubbers.co.uk^
+||van-der-kroon.nl^
 ||van-leeuwen-mode.nl^
 ||van-leeuwenmode.com^
 ||vanbaolu.com^
 ||vanbeekmode.com^
+||vanburen-mode.nl
 ||vandam-studio.nl^
 ||vandersteen-mode.nl^
 ||vanderveldemode.nl^
@@ -8721,30 +8782,14 @@
 ||vanheerlenmode.nl^
 ||vanhofman.nl^
 ||vanlaan-mode.nl^
+||vanloon-mode.nl^
 ||vanmeulenmode.nl^
 ||vanoevelenmode.com^
 ||vanrijn-mode.nl^
 ||vanrijnmode.nl^
 ||vanrosmalen-nijmegen.nl^
+||vantilburghutrecht.nl^
 ||vanveldemode.nl^
-||vap.lijit.com^
-||vap1ams1.lijit.com^
-||vap1ewr1.lijit.com^
-||vap1ord1.lijit.com^
-||vap1sfo1.lijit.com^
-||vap2ams1.lijit.com^
-||vap2ewr1.lijit.com^
-||vap2ord1.lijit.com^
-||vap2sfo1.lijit.com^
-||vap3ams1.lijit.com^
-||vap3ewr1.lijit.com^
-||vap3ord1.lijit.com^
-||vap3sfo1.lijit.com^
-||vap4ewr1.lijit.com^
-||vap4ord1.lijit.com^
-||vap4sfo1.lijit.com^
-||vap5ewr1.lijit.com^
-||vap6ewr1.lijit.com^
 ||vapixel.adsafeprotected.com^
 ||vapotheek.com^
 ||vapourautumn.com^
@@ -8812,6 +8857,7 @@
 ||vg-setting.rayjump.com^
 ||via.batch.com^
 ||viacom.sc.omtrdc.net^
+||viajerospiratas.es^
 ||vialetti.nl^
 ||vibreliya.com^
 ||vicariapastoralgdl.org^
@@ -8871,6 +8917,7 @@
 ||vitromed.ro^
 ||viva-amsterdam.com^
 ||vivaki.demdex.net^
+||vivaraki.nl^
 ||vivaros.nl^
 ||vivasline.com^
 ||viveromonteverde.com^
@@ -8901,6 +8948,7 @@
 ||vox.amp.permutive.com^
 ||voxcustomdfp152282307853.s.moatpixel.com^
 ||voxvidint960547728228.s.moatpixel.com^
+||voyagespirates.fr^
 ||vpaid.springserve.com^
 ||vpjzrzcqrc.com^
 ||vputin.pk^
@@ -8935,6 +8983,7 @@
 ||wadiryphi.pro^
 ||wagroup18.h3d.shop^
 ||wahacondrax.iad-03.braze.com^
+||wakacyjnipiraci.pl^
 ||wakecar.cn^
 ||wall.adgaterewards.com^
 ||wamwearshop.com^
@@ -9225,6 +9274,7 @@
 ||yakamozmusic.com^
 ||yallango.com^
 ||yarnshf.000webhostapp.com^
+||yarri.nl^
 ||yatresipsa.webcindario.com^
 ||yawatrends.com^
 ||yax-winners-ap-southeast-1-rtb.adroll.com^
@@ -9282,6 +9332,7 @@
 ||zagruz.zyns.com^
 ||zahra-fashion.nl^
 ||zalvado.nl^
+||zambi.nl^
 ||zantano.nl^
 ||zarget.com^
 ||zarinakhan.net^
@@ -9297,9 +9348,10 @@
 ||zenlymat.nl^
 ||zenny-mode.nl^
 ||zenovah-mode.nl^
+||zentaro.nl^
 ||zentealounge.com.au^
-||zerova.nl^
 ||zergnet.com^
+||zerova.nl^
 ||zeshiyang.com^
 ||zetkodkv.com^
 ||zeus.ad.intl.xiaomi.com^
