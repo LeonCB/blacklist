@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 13 Jan 2025 15:28 (GMT+1)
+! Last modified: 1 Mar 2025 13:42 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9380
+! Number of entries: 9424
 !
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -1159,6 +1159,7 @@
 ||arethusa.qld.edu.au^
 ||arg.atomex.net^
 ||ariffirdaus.com^
+||ariqora.com^
 ||arisegems.com^
 ||arkallsaintsacademy.com^
 ||arkaluminium.com^
@@ -1256,6 +1257,7 @@
 ||asshoenederlands.com^
 ||assistjs.skimresources.com^
 ||asterjournal.com^
+||astrevalondon.com^
 ||asunweelsuan.cf^
 ||asuslaptops.info^
 ||aswpsdkus.com^
@@ -1697,6 +1699,7 @@
 ||bookshowticket.com^
 ||boost.mobileposse.com^
 ||bootstrap.upsight-api.com^
+||borcelle.nl^
 ||bordspellenverkoop.com^
 ||bordspelwereld.com^
 ||boricello.com^
@@ -1712,6 +1715,7 @@
 ||bpoconnectja.com^
 ||bpolsicurezzaweb.com^
 ||bqcoenkrlqk.com^
+||bqised.com^
 ||brahe.apptimize.com^
 ||brain-domain.com^
 ||brain.foresee.com^
@@ -2377,6 +2381,7 @@
 ||classiccarstorage.co.nz^
 ||classyjakka.nl^
 ||classypatta.nl^
+||claudias-boutique.nl^
 ||clean.adups.com^
 ||cleaningmachineshop.com^
 ||clearwaterriveroutfitting.com^
@@ -2817,6 +2822,7 @@
 ||dashboard-authorizeconfirmation-activity.com.nebarwik-sebelumwik.com^
 ||dashboard2-signin-account-bofa.kozow.com^
 ||dasheanba.club^
+||dashingsoul.com^
 ||dat.funheroic.com^
 ||data-beacons.s-onetag.com^
 ||data-id.ads.oppomobile.com^
@@ -3085,6 +3091,7 @@
 ||doublenjoymentech.com^
 ||doubling-injectors.000webhostapp.com^
 ||doucherekjesstore.com^
+||dovio-london.com^
 ||down.ancamera.co.kr^
 ||down.gogominer.com^
 ||down.tgjkbx.cn^
@@ -3296,8 +3303,10 @@
 ||eliotecae-my.sharepoint.com^
 ||elitepartner.com.sa^
 ||elixamsterdam.nl^
+||elle-toronto.ca^
 ||ellesebeauty.nl^
 ||ellismore.nl^
+||elly-yvonne.com^
 ||elrincondelvalle.com.mx^
 ||elvin-trade.kz^
 ||em.dynamicyield.com^
@@ -3896,6 +3905,7 @@
 ||gj.gds.mmstat.com^
 ||gj.track.uc.cn^
 ||gkh-psp.ru^
+||glaciva-nl.com^
 ||glamorion.com^
 ||glance-internal.inmobi.com^
 ||glance.inmobi.com^
@@ -4151,6 +4161,7 @@
 ||hibids5.com^
 ||hicloud.com^
 ||hierarchic-fish.000webhostapp.com^
+||hifiklubben.save-offer.shop^
 ||highcpms.com^
 ||hiking-pantsshop.com^
 ||hingcheong.hk^
@@ -4312,10 +4323,12 @@
 ||httpcolonforwardslashforwardslashwwwdotjenniferdanieldotcom.com^
 ||https.paypal.com.ttlart2012ttcysu.aylandirow.tmf.org.ru^
 ||hub-online.eu^
+||hudsonbay-boutique.com^
 ||hugesumlily.000webhostapp.com^
 ||huis-elektronica.com^
 ||huis-verwarming.com^
 ||huishout-markt.nl^
+||huistopper.com^
 ||huizenstede.com^
 ||hukum.unmuha.ac.id^
 ||hulu.hb.omtrdc.net^
@@ -4689,11 +4702,13 @@
 ||jagobanglanews.com^
 ||jakebanks.com^
 ||jakobaklrsation.info^
+||jamesandemily-vancouver.com^
 ||jamiat.org.pk^
 ||janesvillegranprix.com^
 ||jansen-zwolle.com^
 ||jansen-zwolle.nl^
 ||jansenhaardhout.com^
+||jansenstyle.nl^
 ||janssenschoenen.nl^
 ||japanmade.com^
 ||jaysuntravels.com^
@@ -4793,6 +4808,7 @@
 ||judithsbloemen.nl^
 ||juib.tk^
 ||juliabka.com^
+||julias-boutique.nl^
 ||junomode.nl^
 ||juridico.invicas.com^
 ||justclickshop.com.sg^
@@ -4897,6 +4913,7 @@
 ||klooo.nl^
 ||kmoskala.milleniumhost.pl^
 ||knkbuvq2.top^
+||knusco.com^
 ||koffie-outlet.com^
 ||koffiecompleet.com^
 ||koffiekans.nl^
@@ -5182,8 +5199,10 @@
 ||looshout.com^
 ||lop3.blob.core.windows.net^
 ||lopesgroups.com^
+||lorvanda.nl^
 ||louiza-outlet.nl^
 ||lounamode.com^
+||lovamode.com^
 ||love-faith.nl^
 ||love69.live^
 ||lover-kingers.000webhostapp.com^
@@ -5212,6 +5231,7 @@
 ||lunevo.nl^
 ||luvon-nl.com^
 ||luvonnetherlands.com^
+||lux-lights^
 ||luxeamsterdam.com^
 ||luxesence.nl^
 ||luxesence.shop^
@@ -5223,6 +5243,7 @@
 ||lydiabschool.com^
 ||lydiaforcouncil.com^
 ||lylasdreambakery.com^
+||lynnco.nl^
 ||lynneselectrical.com^
 ||lynshirt.com^
 ||lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com^
@@ -5391,6 +5412,7 @@
 ||max-l.mediav.com^
 ||maxismuiden.nl^
 ||maxpointimpression857454451729.s.moatpixel.com^
+||maxwell-carter.com^
 ||mazury4x4.pl^
 ||mazzottadj.com^
 ||mb-cdn.stocard.de^
@@ -5511,6 +5533,8 @@
 ||meubelsvoordeel-nl.com^
 ||meuzxiejun.com^
 ||meylanbt.co.ke^
+||mezam.nl^
+||mezamstore.nl^
 ||mfad.inskinad.com^
 ||mfadsrvr.com^
 ||mfevr.com^
@@ -5597,6 +5621,7 @@
 ||mocca-machines.nl^
 ||mochandmade.us^
 ||moda-amsterdam.nl^
+||moda-deals.nl^
 ||modaesportivafeminina.000webhostapp.com^
 ||modafinil-kopen.io^
 ||modal-halts.000webhostapp.com^
@@ -5870,6 +5895,7 @@
 ||nlborstvoeding.com^
 ||nlgames.eu^
 ||nlhondenhuis.com^
+||nlkamg.com^
 ||nlkampeershop.com^
 ||nlmeubelwinkel.com^
 ||nlstore.bestsalescheap2023.com^
@@ -5989,6 +6015,7 @@
 ||oletushop.com^
 ||olimast.com^
 ||oliveandella.nl^
+||oliza.nl^
 ||olympusvision.rbustaging.com^
 ||omax.admarvel.com^
 ||omgmta.qq.com^
@@ -6078,6 +6105,7 @@
 ||original-fashion.nl^
 ||original-fashion.shop^
 ||orion.iad.appboy.com^
+||orlaamsterdam.nl^
 ||orpixel.adsafeprotected.com^
 ||ort.stsdk.vivo.com.cn^
 ||oscire.nl^
@@ -6694,6 +6722,7 @@
 ||rademakers-mode.com^
 ||radiantastore.com^
 ||raexoliwebda.com^
+||rafens.nl^
 ||ragnet.ir^
 ||ralindo.de^
 ||rallysac.com.pe^
@@ -6772,6 +6801,7 @@
 ||reimsthelabel.nl^
 ||reiscomunicacao.com.br^
 ||reisl.uac.bj^
+||reitsma-modeplein.nl^
 ||rekspirit.ru^
 ||remaboardhouse.com.br^
 ||remarketingpixel.com^
@@ -6834,6 +6864,7 @@
 ||riskxai.com^
 ||ritfeld-home.store^
 ||rithurajmg.com^
+||riven-stone.com^
 ||riyanenterprise.com^
 ||rjmlbd.com^
 ||rkdtt0hez7.com^
@@ -7073,6 +7104,7 @@
 ||satgroup.in^
 ||saturdaysdresses.top^
 ||saveursdeguyane.com^
+||saviere.nl^
 ||sb.monetate.net^
 ||sb.scorecardresearch.com^
 ||sb.voicefive.com^
@@ -7611,6 +7643,7 @@
 ||sohui.top^
 ||solana-nl.com^
 ||solberg-home.nl^
+||solevi.nl^
 ||solide-kredi.com^
 ||solsfashion.com^
 ||solutionschiro.net^
@@ -7889,6 +7922,7 @@
 ||stinger-ad.bidr.io^
 ||stm-cdn.cn.miaozhen.com^
 ||stm-collect.cn.miaozhen.com^
+||stofzuiger-outlet.nl^
 ||stofzuiger-shop.nl^
 ||stofzuigerssale.com^
 ||stofzuigersxl.nl^
@@ -7929,6 +7963,7 @@
 ||stx-assets.sharethrough.com^
 ||styleoutlet-roosendaal.nl^
 ||stylerose.de^
+||stylnesamsterdam.com^
 ||stylore.nl^
 ||subatomic-itinerary.000webhostapp.com^
 ||subway2016.tt.omtrdc.net^
@@ -8640,6 +8675,7 @@
 ||ups.demdex.net^
 ||upsight-api.com^
 ||uptowndentalgigharbor.com^
+||urbannorth-canada.com^
 ||urbanstyle-zwolle.nl^
 ||urbanwear-utrecht.nl^
 ||urbanza.nl^
@@ -8785,7 +8821,9 @@
 ||vanheerlenmode.nl^
 ||vanhofman.nl^
 ||vanlaan-mode.nl^
+||vanleuvenmode.nl^
 ||vanloon-mode.nl^
+||vanmaassen-mode.nl^
 ||vanmeulenmode.nl^
 ||vanoevelenmode.com^
 ||vanrijn-mode.nl^
@@ -8884,6 +8922,7 @@
 ||video.upqzfile.com^
 ||videoclientsservicescalls.outbrain.com^
 ||videosfacebook.today^
+||vidivia.nl^
 ||vido-mode.nl^
 ||vidsdelivery.com^
 ||vidutils.taboola.com^
@@ -8936,6 +8975,7 @@
 ||vodafonetr.sc.omtrdc.net^
 ||vogelexpress.com^
 ||voguenest.nl^
+||volano-amsterdam.nl^
 ||volare.co.ls^
 ||voleur.nl^
 ||volona.store^
@@ -9214,7 +9254,10 @@
 ||wv.inner-active.mobi^
 ||wv76ecypi5.com^
 ||wvk12-my.sharepoint.com^
+||www.lux-lights^
 ||www.majestic-amsterdam.nl^
+||www.orlaamsterdam.nl^
+||www.riven-stone.com^
 ||www2.rarbggo.to^
 ||www38.comprafacilita.com^
 ||www54.nathanaeldan.pro^
