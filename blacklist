@@ -5,7 +5,7 @@
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
 ! Last modified: 13 Jan 2025 15:28 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9377
+! Number of entries: 9380
 !
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -5002,6 +5002,7 @@
 ||lavetti.nl^
 ||lavinca-nl.com^
 ||lavinca.nl^
+||lavio.nl^
 ||lavrin.pl^
 ||lawnfertilizernl.com^
 ||lax-1-apex.go.sonobi.com^
@@ -5226,6 +5227,7 @@
 ||lynshirt.com^
 ||lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com^
 ||lynx.cognitivlabs.com^
+||lyvio.nl^
 ||m.0757kd.cn^
 ||m.addthisedge.com^
 ||m.amoad.com^
