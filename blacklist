@@ -5,7 +5,7 @@
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
 ! Last modified: 1 Mar 2025 13:42 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9424
+! Number of entries: 9425
 !
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -3626,6 +3626,7 @@
 ||firealarmcemen.com^
 ||firewood-market.com^
 ||firewood-store.com^
+||firmverup.brother.co.jp^
 ||firstnigerianews.icu^
 ||fit-2-sport.com^
 ||fit-2-sport.store^
