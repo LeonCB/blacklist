@@ -3,7 +3,7 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 1 Mar 2025 13:42 (GMT+1)
+! Last modified: 15 June 2025 19:58 (GMT+1)
 ! Syntax: AdBlock
 ! Number of entries: 9409
 !!
@@ -2669,6 +2669,7 @@
 ||covere.nl^
 ||cox.deliveryengine.adswizz.com^
 ||cozumuret.com^
+||cozyhoome.com^
 ||cp.oupeng.com^
 ||cp.us.na.cloud.im^
 ||cp9t71b6ip.com^
