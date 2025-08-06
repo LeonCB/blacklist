@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 15 June 2025 19:58 (GMT+1)
+! Last modified: 6 August 2025 16:20S (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9409
+! Number of entries: 9414
 !!
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -825,6 +825,7 @@
 ||api.bluecore.com^
 ||api.bounceexchange.com^
 ||api.britepool.com^
+||api.btmessage.com^
 ||api.bttrack.com^
 ||api.bugfender.com^
 ||api.bugsee.com^
@@ -2018,6 +2019,7 @@
 ||cdn.brandmetrics.com^
 ||cdn.braze.eu^
 ||cdn.brid.tv^
+||cdn.btmessage.com^
 ||cdn.caprofitx.com^
 ||cdn.civicscience.com^
 ||cdn.clinch.co^
@@ -5470,6 +5472,7 @@
 ||media.trafficjunky.net^
 ||media1.admicro.vn^
 ||mediaforce.grapeshot.co.uk^
+||mediahuis.be^
 ||mediaknaller.net^
 ||medialytics.com^
 ||mediamarkt-fr.com^
@@ -7447,6 +7450,7 @@
 ||share.dmca.gripe^
 ||share.mob.com^
 ||shared.iad.appboy.com^
+||shared.mediahuis.be^
 ||sharefile2020.com^
 ||shertzlawncare.com^
 ||shiek1ph.com^
