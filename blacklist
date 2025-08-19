@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 6 August 2025 16:20S (GMT+1)
+! Last modified: 19 August 2025 20:58 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9414
+! Number of entries: 9416
 !!
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -7637,6 +7637,7 @@
 ||socialcanvas-cdn.kargo.com^
 ||sock*-goguardian.pusher.com^
 ||soclickit.com^
+||sodastreamaanbieding.nl^
 ||sodk.blob.core.windows.net^
 ||sofia.trustx.org^
 ||soft.114lk.com^
@@ -9247,6 +9248,7 @@
 ||www.majestic-amsterdam.nl^
 ||www.orlaamsterdam.nl^
 ||www.riven-stone.com^
+||www.sodastreamaanbieding.nl^
 ||www2.rarbggo.to^
 ||www38.comprafacilita.com^
 ||www54.nathanaeldan.pro^
