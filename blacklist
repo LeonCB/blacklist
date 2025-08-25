@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 19 August 2025 20:58 (GMT+1)
+! Last modified: 25 August 2025 10:25 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9416
+! Number of entries: 9405
 !!
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -1300,7 +1300,6 @@
 ||au-gmtdmp.mookie1.com^
 ||au.umeng.co^
 ||au.umeng.com^
-||au.vortex-win.data.microsoft.com^
 ||au.w.inmobi.com^
 ||aubhiple2.com^
 ||auctera.gotrackier.com^
@@ -2873,8 +2872,6 @@
 ||daynightgym.com^
 ||db.utag.ijinshan.com^
 ||db3aqu.atdmt.com^
-||db5-eap.settings-win.data.microsoft.com.akadns.net^
-||db5.settings-win.data.microsoft.com.akadns.net^
 ||db5.settings.data.microsoft.com.akadns.net^
 ||db5.vortex.data.microsoft.com.akadns.net^
 ||dbg52463.moatads.com^
@@ -2893,7 +2890,6 @@
 ||de.ekolektor.com^
 ||de.inmobi.com^
 ||de.tynt.com^
-||de.vortex-win.data.microsoft.com^
 ||de1-bid.adsrvr.org^
 ||dealdagen.nl^
 ||dealdiveedu.com^
@@ -3415,7 +3411,6 @@
 ||eu.adventori.com^
 ||eu.criteo.com^
 ||eu.criteo.net^
-||eu.vortex-win.data.microsoft.com^
 ||eu01.nr-data.net^
 ||eu1-spiky.wzrkt.com^
 ||eu1.wzrkt.com^
@@ -3868,7 +3863,6 @@
 ||geo.com.my^
 ||geo.moatads.com^
 ||geo.nbcsports.com^
-||geo.settings-win.data.microsoft.com.akadns.net^
 ||geo.settings.data.microsoft.com.akadns.net^
 ||geo.vortex.data.microsoft.com.akadns.net^
 ||geoapi123.appspot.com^
@@ -7395,7 +7389,6 @@
 ||sethichans.ga^
 ||setting.adzcore.com^
 ||settings-win-ppe.data.microsoft.com^
-||settings-win.data.microsoft.com^
 ||settings.data.glbdns2.microsoft.com^
 ||settingsfd-geo.trafficmanager.net^
 ||seventythreesins.com^
@@ -8583,7 +8576,6 @@
 ||ujzuopinji.com^
 ||uk-script.dotmetrics.net^
 ||uk.ads.justpremium.com^
-||uk.vortex-win.data.microsoft.com^
 ||ukbusinessdaily.com^
 ||ukphp.com^
 ||uks.b.prd.ags.trafficmanager.net^
@@ -8710,7 +8702,6 @@
 ||us.dev.zeronaught.com^
 ||us.info.lgsmartad.com^
 ||us.inmobi.koneomobiledsp.com^
-||us.vortex-win.data.microsoft.com^
 ||us01.rayjump.com^
 ||us1-sdk.bluedot.io^
 ||us1-spiky.wzrkt.com^
@@ -8762,12 +8753,10 @@
 ||v1.addthis.com^
 ||v1.addthisedge.com.edgekey.net^
 ||v10-win.vortex.data.microsoft.com.akadns.net^
-||v10.vortex-win.data.microsoft.com^
 ||v2.chartboost.com^
 ||v2.dc.yieldify.com^
 ||v2.pixel.newscgp.com^
 ||v2.yieldlove-ad-serving.net^
-||v20.vortex-win.data.microsoft.com^
 ||v6.mobilelog.upqzfile.com^
 ||v6analytics.htmedia.in.edgekey.net^
 ||v7.cdn.onthe.io^
@@ -8974,7 +8963,6 @@
 ||voordeelbanden.com^
 ||voordeelshopper.store^
 ||voordeelweken.store^
-||vortex-win.data.microsoft.com^
 ||vortex.data.glbdns2.microsoft.com^
 ||voskidzerqer.am^
 ||voterapp.jamaat.org^
