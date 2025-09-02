@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 25 August 2025 10:25 (GMT+1)
+! Last modified: 2 September 2025 13:18 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9405
+! Number of entries: 9404
 !!
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -5607,7 +5607,6 @@
 ||mobile.logs.roku.com^
 ||mobile.measurelib.com^
 ||mobile.mng-ads.com^
-||mobile.pipe.aria.microsoft.com^
 ||mobile.yandexadexchange.net^
 ||mobileapi.usebutton.com^
 ||mobilefbook-login-com.filesusr.com^
