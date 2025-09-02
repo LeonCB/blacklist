@@ -1,0 +1,42 @@
+[Adblock Plus]
+! Title: Leon's malicious and advertisement websites DNS Allowlist
+! Description: Leon's malicious and advertisement websites DNS Allowlist
+! Homepage: https://github.com/LeonCB/allowlost
+! License: https://github.com/LeonCB/allowlist?tab=GPL-3.0-1-ov-file
+! Last modified: 2 September 2025 12:58 (GMT+1)
+! Syntax: AdBlock
+! Number of entries: 33
+!!
+||1drv.ms^
+||aax-eu.amazon.nl^
+||aria.microsoft.com^
+||bit.ly^
+||bitly.com^
+||clickserve.dartsearch.net^
+||crm-cdn.peek-cloppenburg.com^
+||cultuurondervuur.nu^
+||docs.google.com^
+||embed.windy.com^
+||eu.doubledouble.top^
+||fpt.dfp.microsoft.com^
+||gateway.apiportal.ns.nl^
+||geziningevaar.nl^
+||ichnaea.netflix.com^
+||incoming.telemetry.mozilla.org^
+||insideruser.microsoft.com^
+||l.klarna.com^
+||lenovo.evyy.net^
+||logmeininc.com^
+||mailerlite.com^
+||ov-df.microsoft.com^
+||pastebin.com^
+||raw.githubusercontent.com^
+||s.click.aliexpress.com^
+||storage.googleapis.com^
+||support.microsoft.com^
+||t.notificationmail.microsoft.com^
+||us.doubledouble.top^
+||vlscppe.microsoft.com^
+||www.aldi.nl^
+||www.doubledouble.top^
+||www.msn.com^
