@@ -5,7 +5,7 @@
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
 ! Last modified: 2 September 2025 13:18 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9404
+! Number of entries: 9405
 !!
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -4998,6 +4998,7 @@
 ||ladyessential.nl^
 ||laixuela.com^
 ||lakefm.co.tz^
+||laluna-amsterdam.nl^
 ||lamellose-perfect.000webhostapp.com^
 ||lamerode.nl^
 ||lammaixep.com^
