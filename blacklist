@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 2 September 2025 13:18 (GMT+1)
+! Last modified: 20 September 2025 21:31 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9405
+! Number of entries: 9412
 !!
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -1714,6 +1714,7 @@
 ||bosswords.co^
 ||bouverne-studio.nl^
 ||bouwkraam.nl^
+||bouwpakket.com^
 ||bovientix.com^
 ||boxoffice.urbanairship.com^
 ||boztepeiyilikyuvasi.com^
@@ -2868,6 +2869,7 @@
 ||davidlasnier.com^
 ||daviik.iad-03.braze.com^
 ||dawaphoto.co.kr^
+||daybuydy.com^
 ||daydealsdos.com^
 ||daynightgym.com^
 ||db.utag.ijinshan.com^
@@ -2916,6 +2918,7 @@
 ||degraafboetiek.com^
 ||dehaarlemmode.nl^
 ||deinfitblog.de^
+||dejong-amsterdam.nl^
 ||dekattenbak.nl^
 ||dekinderhoek.nl^
 ||dekleinmode.nl^
@@ -3955,6 +3958,7 @@
 ||gold-sneakers.com^
 ||goldengardenparty.com^
 ||goldenhout.nl^
+||goldentree.nl^
 ||golf-fine.com^
 ||goload.wecloud.io^
 ||good-natured-termin.000webhostapp.com^
@@ -5044,6 +5048,7 @@
 ||lcmsystem.com^
 ||lcsdk.3g.qq.com^
 ||ldynamicspublicapi.leadforensics.com^
+||le-philippe.nl^
 ||leadersdomainchurch.org^
 ||leaf-lux.nl^
 ||leanmobi.fusetracking.com^
@@ -5223,6 +5228,7 @@
 ||luguava.com^
 ||lululemonspna.btttag.com^
 ||lumenglobe.com^
+||lumingo.nl^
 ||luminova-home.com^
 ||luminova-home.de^
 ||luminova-home.nl^
@@ -5232,6 +5238,7 @@
 ||luvon-nl.com^
 ||luvonnetherlands.com^
 ||lux-lights^
+||luxarios.nl^
 ||luxeamsterdam.com^
 ||luxesence.nl^
 ||luxesence.shop^
@@ -8327,6 +8334,7 @@
 ||tilamaito.info^
 ||tileswan.cmcm.com^
 ||tilma.it^
+||timberow.com^
 ||timehop.adsbynimbus.com^
 ||timlinger.com^
 ||timmerije.eu^
