@@ -5,7 +5,7 @@
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
 ! Last modified: 20 September 2025 21:31 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9412
+! Number of entries: 9414
 !!
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
@@ -2893,6 +2893,7 @@
 ||de.inmobi.com^
 ||de.tynt.com^
 ||de1-bid.adsrvr.org^
+||dealdag.nl^
 ||dealdagen.nl^
 ||dealdiveedu.com^
 ||dealerdotcomdisplay576919175878.s.moatpixel.com^
