@@ -3,10 +3,16 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 20 September 2025 21:31 (GMT+1)
+! Last modified: 17 Oktober 2025 12:39 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 9414
+! Number of entries: 9410
 !!
+||*dealdag.nl^
+||*lux-lights.nl^
+||*majestic-amsterdam.nl^
+||*orlaamsterdam.nl^
+||*riven-stone.com^
+||*sodastreamaanbieding.nl^
 ||0-0-0-0go.sxn.us^
 ||0-1-0.alpha.rtb-dashboard.marketgid.com^
 ||0-168.com^
@@ -1579,6 +1585,7 @@
 ||bioverlag-online.de^
 ||bip.presage.io^
 ||birch-jar.000webhostapp.com^
+||birdzen-it.com^
 ||birthdaycardsawwnet.ru^
 ||bis.vidazoo.com^
 ||bisdr.vidazoo.com^
@@ -2893,7 +2900,6 @@
 ||de.inmobi.com^
 ||de.tynt.com^
 ||de1-bid.adsrvr.org^
-||*dealdag.nl^
 ||dealdagen.nl^
 ||dealdiveedu.com^
 ||dealerdotcomdisplay576919175878.s.moatpixel.com^
@@ -5238,7 +5244,6 @@
 ||lunevo.nl^
 ||luvon-nl.com^
 ||luvonnetherlands.com^
-||lux-lights^
 ||luxarios.nl^
 ||luxeamsterdam.com^
 ||luxesence.nl^
@@ -5339,7 +5344,6 @@
 ||maison-amstelveen.nl^
 ||maisons-amstelveen.nl^
 ||majers-weinscheuer.de^
-||majestic-amsterdam.nl^
 ||makosoft.hu^
 ||malaysiadigitalmarketing.com^
 ||malevolent-ornament.000webhostapp.com^
@@ -6114,7 +6118,6 @@
 ||original-fashion.nl^
 ||original-fashion.shop^
 ||orion.iad.appboy.com^
-||orlaamsterdam.nl^
 ||orpixel.adsafeprotected.com^
 ||ort.stsdk.vivo.com.cn^
 ||oscire.nl^
@@ -6871,7 +6874,6 @@
 ||riskxai.com^
 ||ritfeld-home.store^
 ||rithurajmg.com^
-||riven-stone.com^
 ||riyanenterprise.com^
 ||rjmlbd.com^
 ||rkdtt0hez7.com^
@@ -7638,7 +7640,6 @@
 ||socialcanvas-cdn.kargo.com^
 ||sock*-goguardian.pusher.com^
 ||soclickit.com^
-||sodastreamaanbieding.nl^
 ||sodk.blob.core.windows.net^
 ||sofia.trustx.org^
 ||soft.114lk.com^
@@ -9241,11 +9242,6 @@
 ||wv.inner-active.mobi^
 ||wv76ecypi5.com^
 ||wvk12-my.sharepoint.com^
-||www.lux-lights^
-||www.majestic-amsterdam.nl^
-||www.orlaamsterdam.nl^
-||www.riven-stone.com^
-||www.sodastreamaanbieding.nl^
 ||www2.rarbggo.to^
 ||www38.comprafacilita.com^
 ||www54.nathanaeldan.pro^
