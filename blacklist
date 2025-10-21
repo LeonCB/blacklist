@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 17 Oktober 2025 14:18 MT+1)
+! Last modified: 21 Oktober 2025 8:33 GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 8447
+! Number of entries: 8449
 !!
 ||*000webhostapp.com^
 ||*126.com^
@@ -31,6 +31,7 @@
 ||*sodastreamaanbieding.nl^
 ||*supersonicads.com^
 ||*track.smaato.net^
+||*vanleermode.com^
 ||*vivoglobal.com^
 ||*yieldlove-ad-serving.net^
 ||*yinzcam.com^
