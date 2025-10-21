@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 21 Oktober 2025 8:33 GMT+1)
+! Last modified: 21 Oktober 2025 8:37 GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 8449
+! Number of entries: 8450
 !!
 ||*000webhostapp.com^
 ||*126.com^
@@ -16,6 +16,7 @@
 ||*goforandroid.com^
 ||*huawei.com^
 ||*justns.ru^
+||*liermode.com^
 ||*lux-lights.nl^
 ||*majestic-amsterdam.nl^
 ||*marketingcloudapis.com^
