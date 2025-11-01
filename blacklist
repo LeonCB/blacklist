@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 27 Oktober 2025 19:03 GMT+1)
+! Last modified: 01 Noveober 2025 14:54 GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 8451
+! Number of entries: 8464
 !!
 ||*000webhostapp.com^
 ||*126.com^
@@ -76,6 +76,7 @@
 ||49feqdpw.com^
 ||4aqi9vrzr2.com^
 ||4ij4g22t67.com^
+||4little.nl^
 ||4o64flb.com^
 ||4ojwnsgub2.com^
 ||4roxllpf6f.com^
@@ -1195,6 +1196,7 @@
 ||bestplantly.com^
 ||bestsnelkrediet.nl^
 ||besttasimacilik.com.tr^
+||bet365.com^
 ||bet365dhw.com^
 ||beta.pterosol.com^
 ||betaresourcesltd.com^
@@ -2212,6 +2214,8 @@
 ||cookiematch*.prod.justpremium.com^
 ||cookiesync.mparticle.com^
 ||cooladata.kampyle.com^
+||coolbe.ie^
+||coolbet.com^
 ||coolprizer.life^
 ||coolvibes.xyz^
 ||cooperativabetania.org^
@@ -4154,6 +4158,7 @@
 ||jointhemedia.com^
 ||joinwhatsappdewasa.ooguy.com^
 ||jonpetesharefile.com^
+||joom.com^
 ||joseimports.com.br^
 ||josmancars.net^
 ||josmodels.com^
@@ -4300,6 +4305,8 @@
 ||kledingoutlets-lelystad.nl^
 ||kledingwinkelen.nl^
 ||kleefmode.nl^
+||kleine-wonders.nl^
+||kleinedoelen.nl^
 ||kleineprijs.com^
 ||kliniekmooy.com^
 ||klinische-apot.com^
@@ -4912,11 +4919,13 @@
 ||midiaplural.com.br^
 ||midoweb.offerstrack.net^
 ||midwayboardwalk.com^
+||mijn-hummeltje.nl^
 ||mijn-woonkamer.com^
 ||mijnbrandhout.com^
 ||mijnwinkel-24.com^
 ||milanostore.vn^
 ||miller-mode.nl^
+||milo-moon.nl^
 ||min.admicro.vn^
 ||mindfulgenix.myecomstore.net^
 ||minimal-home.nl^
@@ -5016,6 +5025,7 @@
 ||moose-products.nl^
 ||moranawarsaw.store^
 ||morba.cz^
+||moreformini.nl^
 ||morena-meubel.nl^
 ||morena-meubels.nl^
 ||morenameubels.nl^
@@ -5215,6 +5225,7 @@
 ||nl.answerroot.com^
 ||nl.cheaponlinestore2021.ru^
 ||nl.eu.criteo.net^
+||nl.trustpilot.com^
 ||nlborstvoeding.com^
 ||nlgames.eu^
 ||nlhondenhuis.com^
@@ -7454,6 +7465,7 @@
 ||thumpmagical.top^
 ||thxczhfzad.com^
 ||ti.domainforlite.com^
+||tibatoes.com^
 ||tibinst.mefound.com^
 ||ticks2.bugsense.com^
 ||tidaltv.com.akadns.net^
@@ -7514,6 +7526,7 @@
 ||tous-lesjours.com^
 ||tousnl.net^
 ||tovenarij-nederland.com^
+||toystar.nl^
 ||tp-emea.exactag.com^
 ||tpat.api.vungle.com^
 ||tps-wlb-uswest.dvgtm.akadns.net^
