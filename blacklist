@@ -3,7 +3,7 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 01 Noveober 2025 15:13 GMT+1)
+! Last modified: 23 November 2025 15:38 GMT+1)
 ! Syntax: AdBlock
 ! Number of entries: 8494
 !!
@@ -5234,7 +5234,6 @@
 ||nl.answerroot.com^
 ||nl.cheaponlinestore2021.ru^
 ||nl.eu.criteo.net^
-||nl.trustpilot.com^
 ||nlborstvoeding.com^
 ||nlgames.eu^
 ||nlhondenhuis.com^
