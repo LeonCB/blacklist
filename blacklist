@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 23 November 2025 15:38 GMT+1)
+! Last modified: 6 Januari 2026 14:03 GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 8494
+! Number of entries: 8495
 !!
 ||*000webhostapp.com^
 ||*126.com^
@@ -2283,6 +2283,7 @@
 ||criteo-sync.teads.tv^
 ||criteo.com^
 ||crittercism.com^
+||crktyhyc.shop^
 ||crm.probago.hu^
 ||crosplat.co.uk^
 ||cross-promo.mwx.ext.mobilityware.com^
