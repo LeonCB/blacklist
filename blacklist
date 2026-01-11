@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 6 Januari 2026 14:03 GMT+1)
+! Last modified: 11 Januari 2026 13:23 GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 8495
+! Number of entries: 8498
 !!
 ||*000webhostapp.com^
 ||*126.com^
@@ -2859,6 +2859,7 @@
 ||emelie-wied.de^
 ||emersonribeirofotografias.com.br^
 ||emir-elbahr.com^
+||emma-atelier.nl^
 ||emobs.nl^
 ||empire-employment.co.uk^
 ||employeeindia.in^
@@ -4168,6 +4169,7 @@
 ||joinwhatsappdewasa.ooguy.com^
 ||jonpetesharefile.com^
 ||joom.com^
+||Joom.com^
 ||joseimports.com.br^
 ||josmancars.net^
 ||josmodels.com^
@@ -4742,6 +4744,7 @@
 ||map.go.affec.tv^
 ||maraithonpetroleum.com^
 ||marfeel.com^
+||margaretnoosa.com^
 ||marikoooutletwinkel.com^
 ||marioliveirapersonal.com.br^
 ||market-dev.s-onetag.com^
