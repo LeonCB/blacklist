@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 11 Januari 2026 13:23 GMT+1)
+! Last modified: 14 Januari 2026 14:55 GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 8498
+! Number of entries: 8500
 !!
 ||*000webhostapp.com^
 ||*126.com^
@@ -4519,6 +4519,7 @@
 ||liveramp2waycm-atl.netmng.com^
 ||livestudentccc-my.sharepoint.com^
 ||living27.nl^
+||livingamsterdam.nl^
 ||lkp7jo3s.com^
 ||lm.serving-sys.com^
 ||lmsanimation.com^
@@ -7998,6 +7999,7 @@
 ||vialetti.nl^
 ||vibreliya.com^
 ||vicariapastoralgdl.org^
+||vicedeal.com^
 ||victoryoutlet.nl^
 ||vid-io-iad.springserve.com^
 ||vid-io-sin.springserve.com^
