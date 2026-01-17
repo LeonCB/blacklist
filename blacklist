@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 14 Januari 2026 14:55 GMT+1)
+! Last modified: 17 Januari 2026 15:23 GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 8500
+! Number of entries: 8501
 !!
 ||*000webhostapp.com^
 ||*126.com^
@@ -2708,6 +2708,7 @@
 ||ducks.pt^
 ||durstewitz-eshops.de^
 ||dusdn.mireene.com^
+||duskie.nl^
 ||dusperdesi.net^
 ||dutch-designeroutlet.com^
 ||dutch-lands.com^
