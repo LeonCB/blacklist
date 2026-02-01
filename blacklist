@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 17 Januari 2026 15:23 GMT+1)
+! Last modified: 1 februari 2026 11:18 GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 8501
+! Number of entries: 8512
 !!
 ||*000webhostapp.com^
 ||*126.com^
@@ -1169,6 +1169,7 @@
 ||behighrewind.com^
 ||belgikanst.iad-03.braze.com^
 ||bell-provider.info^
+||bellanza.nl^
 ||bellaso.nl^
 ||belleful.bounceme.net^
 ||bellissi-mode.com^
@@ -2861,6 +2862,7 @@
 ||emersonribeirofotografias.com.br^
 ||emir-elbahr.com^
 ||emma-atelier.nl^
+||emmarotterdam.nl^
 ||emobs.nl^
 ||empire-employment.co.uk^
 ||employeeindia.in^
@@ -4169,8 +4171,8 @@
 ||jointhemedia.com^
 ||joinwhatsappdewasa.ooguy.com^
 ||jonpetesharefile.com^
-||joom.com^
 ||Joom.com^
+||joom.com^
 ||joseimports.com.br^
 ||josmancars.net^
 ||josmodels.com^
@@ -4259,6 +4261,7 @@
 ||kartalpanorama.com^
 ||kashinnat.cf^
 ||kasturiengineering.in^
+||kate-amsterdam.nl^
 ||katherinechao.com^
 ||kaufenholz.com^
 ||kaufenia.com^
@@ -4887,6 +4890,7 @@
 ||merciless.localstars.com^
 ||mereliverystables.com^
 ||merkoutlet-arnhem.nl^
+||merley.nl^
 ||messaging.influencemobile.com^
 ||mestisko.sk^
 ||metabet.api.areyouwatchingthis.com^
@@ -5630,6 +5634,7 @@
 ||piccdn.igetget.com^
 ||pie.wirelessregistry.com^
 ||pierremarmores.com.br^
+||pieterendaan.com^
 ||pilatesforeverybody.org^
 ||pindadglobal.com^
 ||ping-meta-prd.jwpltx.com^
@@ -6955,6 +6960,7 @@
 ||st-n.ads5-adnow.com^
 ||st.bebi.com^
 ||stacjadobregoczasu.pl^
+||stadsfashion.nl^
 ||staffordpropertygroup.com.au^
 ||stage-a.applovin.com^
 ||stage-assets.applovin.com^
@@ -7522,6 +7528,7 @@
 ||token.api.kochava.com^
 ||toko.duniabermain.com^
 ||tombakkers.com^
+||tomhollinger.com^
 ||tonghopgia.net^
 ||tonybet.nl^
 ||toonschoenen.nl^
@@ -8326,6 +8333,7 @@
 ||wv76ecypi5.com^
 ||wvk12-my.sharepoint.com^
 ||www.888casino.nl^
+||www.ayzeze.com^
 ||www.bet365.nl^
 ||www.betcity.nl^
 ||www.bingoal.nl^
@@ -8339,9 +8347,14 @@
 ||www.jacks.nl^
 ||www.kansino.nl^
 ||www.leovegas.com^
+||www.middo.nl^
 ||www.onecasino.nl^
 ||www.score.nl^
+||www.thirty-eight.nl^
 ||www.unibet.nl^
+||www.vanbeckhovenutrecht.nl^
+||www.vanbeeckhovenutrecht.nl^
+||www.vanganzewinkelnatuursteen.com^
 ||www.vbet.nl^
 ||www2.rarbggo.to^
 ||www38.comprafacilita.com^
