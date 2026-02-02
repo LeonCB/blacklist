@@ -3,9 +3,9 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 1 februari 2026 11:18 GMT+1)
+! Last modified: 2 februari 2026 18:31 GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 8512
+! Number of entries: 8513
 !!
 ||*000webhostapp.com^
 ||*126.com^
@@ -135,6 +135,8 @@
 ||9ed5f5b4.api.splkmobile.com^
 ||9ib5cxi9e0.com^
 ||9ws3wutazo.com^
+||Jacks.nl^
+||Joom.com^
 ||a-fds.youborafds01.com^
 ||a-laptops.info^
 ||a.a.3483.fhug.5875.dhirt.4989.rgkhr.594k.egih.dg4r4t.clearpointsupplies.com^
@@ -4118,7 +4120,6 @@
 ||j.microad.net^
 ||j2waycm.netmng.com^
 ||jackhansen.nl^
-||Jacks.nl^
 ||jact.atdmt.com^
 ||jadserve.postrelease.com^
 ||jagobanglanews.com^
@@ -4171,7 +4172,6 @@
 ||jointhemedia.com^
 ||joinwhatsappdewasa.ooguy.com^
 ||jonpetesharefile.com^
-||Joom.com^
 ||joom.com^
 ||joseimports.com.br^
 ||josmancars.net^
@@ -5276,6 +5276,7 @@
 ||notification.webengage.com^
 ||notify.bugsnag.appstore.a2z.com^
 ||notify.mgid.com^
+||notoxkitchen.nl^
 ||nova-collector-1192479543.us-east-1.elb.amazonaws.com^
 ||novageracaotransportes.com.br^
 ||novapowa.com^
