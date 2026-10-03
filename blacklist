@@ -3,7 +3,7 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 2026-06-03T12:31:04.101Z
+! Last modified: 2026-10-03T17:48:37.363Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -439,6 +439,7 @@
 ||ampmetrics.techcrunch.com^
 ||amprtc.media.net^
 ||amsterdam-mode.com^
+||amsterdamsemode.nl^
 ||amtravel.com.au^
 ||analysis.lionmobi.com^
 ||analytics*.carambo.la^
