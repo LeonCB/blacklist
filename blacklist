@@ -1,17 +1,10 @@
-!
 ! Title: Leon's malicious and advertisement websites DNS Blocklist
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 2026-10-03T17:48:37.363Z
-!
-! Compiled by @adguard/hostlist-compiler v2.1.0
-!
-!
-! Source name: Local rules
-! Source: rules.txt
-!
-[Adblock Plus]
+! Last modified: 2026-11-14 13:58:39 CET
+! Rules: 7849
+
 ||*000webhostapp.com^
 ||*126.com^
 ||*163.com^
@@ -53,7 +46,6 @@
 ||2z0a4r31.top^
 ||31y6b8omk2.com^
 ||360fenxi.mediav.com^
-||37.1.209.213^
 ||37bvsblobprodcus311.blob.core.windows.net^
 ||3b9675ljcw.com^
 ||3bfkxta3dg.com^
@@ -128,6 +120,8 @@
 ||9e97cf8b099a.cdn4.forter.com^
 ||9ib5cxi9e0.com^
 ||9ws3wutazo.com^
+||Jacks.nl^
+||Joom.com^
 ||a-fds.youborafds01.com^
 ||a-laptops.info^
 ||a.a.3483.fhug.5875.dhirt.4989.rgkhr.594k.egih.dg4r4t.clearpointsupplies.com^
@@ -2626,6 +2620,7 @@
 ||eliotecae-my.sharepoint.com^
 ||elitepartner.com.sa^
 ||elixamsterdam.nl^
+||elle-charleston.com^
 ||elle-toronto.ca^
 ||ellesebeauty.nl^
 ||ellismore.nl^
@@ -2681,7 +2676,6 @@
 ||ericgang.com^
 ||erikapropiedades.com^
 ||erikson-fashion.com^
-||eriksøn-fashion.com^
 ||erkankaratas.com.tr^
 ||erotica-massage.nl^
 ||err.izooto.com^
@@ -2976,6 +2970,7 @@
 ||freewheeleventsbidder-east.extend.tv^
 ||freitasfla.com^
 ||freshairconditioner.com^
+||freshlabelamsterdam.nl^
 ||freshseafood.webhop.me^
 ||fribooonline.com^
 ||fridayfashion.nl^
@@ -3800,7 +3795,6 @@
 ||j.microad.net^
 ||j2waycm.netmng.com^
 ||jackhansen.nl^
-||Jacks.nl^
 ||jact.atdmt.com^
 ||jadserve.postrelease.com^
 ||jagobanglanews.com^
@@ -3852,8 +3846,8 @@
 ||joingrupwhatsapviral.zzux.com^
 ||jointhemedia.com^
 ||joinwhatsappdewasa.ooguy.com^
+||jongmanmode.nl^
 ||jonpetesharefile.com^
-||Joom.com^
 ||joom.com^
 ||joseimports.com.br^
 ||josmancars.net^
@@ -3994,7 +3988,6 @@
 ||kivio.io^
 ||kjfjwivo.top^
 ||klamor.nl^
-||klantenservicepakjedealsnu@gmail.com^
 ||klca5rlwdr.com^
 ||kledingoutlets-lelystad.nl^
 ||kledingwinkelen.nl^
@@ -4160,10 +4153,12 @@
 ||liderautocom.com.br^
 ||lie4anyone.com^
 ||liermode.com^
+||lievelle.com^
 ||lifeapt.biz^
 ||lightboxcdn.com^
 ||lightning.cnn.com^
 ||lightstep-collector.api.ua.com^
+||liistartu.com^
 ||lijflied.nl^
 ||lilahuis.com^
 ||lilian-fashion.com^
@@ -4644,6 +4639,7 @@
 ||modehuis-jansen.com^
 ||modehuis-jansen.nl^
 ||modehuisbakker.nl^
+||modehuislaren.nl^
 ||modehuss.com^
 ||modelaan.nl^
 ||modelle.nl^
@@ -4882,7 +4878,6 @@
 ||nomaansheikh.com^
 ||norainterior-nl.com^
 ||norcaltc-my.sharepoint.com^
-||nordblanc-shop.at & nordblanc-shop.de^
 ||nordic-design.nl^
 ||nordicci.nl^
 ||nordicdesigns.nl^
@@ -4957,7 +4952,6 @@
 ||odaah.com^
 ||odfknhdujd.github.io^
 ||odr.mookie1.com^
-||odroidhc4^
 ||odufh13vjw.com^
 ||ofertasmagaluizabussinesbrasilrevendedor.com^
 ||ofertasprodutosmm.com^
@@ -5875,6 +5869,7 @@
 ||sanfranciscoeventspace.com^
 ||sanjoaquinvalleybrewfest.com^
 ||sannries.com^
+||sansoti.com^
 ||santaremplay.com.br^
 ||sanuknederland.com^
 ||sapph.com^
@@ -7315,8 +7310,10 @@
 ||vanheerlenmode.nl^
 ||vanhofman.nl^
 ||vanlaan-mode.nl^
+||vanlarenmode.com^
 ||vanleermode.com^
 ||vanleuvenmode.nl^
+||vanloenenmode.nl^
 ||vanloon-mode.nl^
 ||vanmaassen-mode.nl^
 ||vanmeulenmode.nl^
@@ -7363,6 +7360,7 @@
 ||vegasvikingsecurity.com^
 ||vehols.nl^
 ||veldageschaft.com^
+||velorasboutique.com^
 ||velours24.nl^
 ||velur-nl.com^
 ||vemoot.in^
