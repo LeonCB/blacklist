@@ -2,8 +2,8 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 2026-11-14 13:58:39 CET
-! Rules: 7849
+! Last modified: 2026-11-14 14:34:28 CET
+! Rules: 7854
 
 ||*000webhostapp.com^
 ||*126.com^
@@ -2937,6 +2937,7 @@
 ||forcedolphin.com^
 ||fordelu.nl^
 ||foreno.nl^
+||forlann.com^
 ||formula1seats.com^
 ||formulatreinamentos.com.br^
 ||fortify.work^
@@ -4445,6 +4446,7 @@
 ||matutina.mg.gov.br^
 ||mautic.*.vn^
 ||maven.blueconic.net^
+||maverno.nl^
 ||mavlino.store^
 ||mavumo.nl^
 ||max-l.mediav.com^
@@ -4669,6 +4671,7 @@
 ||monicanoue.com^
 ||monitor.clickcease.com^
 ||montage-boutique.com^
+||montavero.com^
 ||montessoribrasov.ro^
 ||montigusto.nl^
 ||monvella.com^
@@ -7094,6 +7097,7 @@
 ||trophaxbrand.com^
 ||trophaxbrande.com^
 ||tropy.nl^
+||truefords.com^
 ||truex.com^
 ||tsatest-812.tk^
 ||tshirt-factory.eu^
@@ -7801,6 +7805,7 @@
 ||zagruz.dnset.com^
 ||zagruz.zyns.com^
 ||zahra-fashion.nl^
+||zalecta.nl^
 ||zalondo.com^
 ||zalvado.nl^
 ||zambi.nl^
