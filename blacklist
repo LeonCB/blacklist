@@ -2,8 +2,8 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 2026-11-14 14:34:28 CET
-! Rules: 7854
+! Last modified: 2026-11-21 12:28:14 CET
+! Rules: 7922
 
 ||*000webhostapp.com^
 ||*126.com^
@@ -496,6 +496,7 @@
 ||animalulmeu.ro^
 ||aniview.com.edgekey.net^
 ||anizablevetor.pro^
+||anna-jan.cz^
 ||annabrickhousegrill.ru^
 ||annalarson.net^
 ||annemode.nl^
@@ -885,6 +886,8 @@
 ||atedra.com^
 ||atefnet.com^
 ||ateksisportal.com^
+||atelierlouvois.fr^
+||atelierrowe.com^
 ||ateliervente.be^
 ||atendimento-sac-pg.joomla.com^
 ||atendimentoonlinecliente.live^
@@ -929,11 +932,13 @@
 ||autopartsmanager.icu^
 ||aux.fqtag.com^
 ||av1.xdrig.com^
+||avantiure.fr^
 ||avantly.nl^
 ||avd.innity.com^
 ||avd.innity.net^
 ||avenidasuitesbrazil.com^
 ||avenue-mode.nl^
+||averyrowe.com^
 ||avl9hvh0.top^
 ||avn.innity.com^
 ||avocarrot.com^
@@ -990,7 +995,9 @@
 ||balcaounicodoadvogado.com^
 ||balehosts.com^
 ||baleshwerbabaonline.com^
+||baloira.com^
 ||balulify.nl^
+||balungo.nl^
 ||balwear.nl^
 ||balwearshop.nl^
 ||bamakobleach.free.fr^
@@ -1053,6 +1060,7 @@
 ||beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com^
 ||beap.gemini.yahoo.com^
 ||beatsdrops.ru^
+||beaufortparis.fr^
 ||beauteenfool.nl^
 ||beauty-g-tanaka.com^
 ||beautyplusmailsapp.servepics.com^
@@ -1322,6 +1330,7 @@
 ||bungalowstorage.icu^
 ||burion.pro^
 ||bursasajadah.com^
+||bushrange.com^
 ||bushub.com.ua^
 ||business-oasis.ru^
 ||business.fit^
@@ -2140,6 +2149,7 @@
 ||customplus.top^
 ||customtraffic.impactradius.com^
 ||cuteparrots.com^
+||cutiebedudies.nl^
 ||cuuhogiaothongbinhphuoc.com^
 ||cvassist.com.au^
 ||cvc.com.pl^
@@ -2179,6 +2189,7 @@
 ||dable.io.edgekey.net^
 ||dacdn.pushcrew.com^
 ||daddyplays.com^
+||dailyaktiv.com^
 ||dailymotion-cs.vpadn.com^
 ||dalibio.nl^
 ||danicar.it^
@@ -2291,6 +2302,7 @@
 ||demand.bidgear.com^
 ||demiddleeast.com^
 ||demo-dev.fr^
+||demodeoutlet.shop^
 ||den01-event.spotxchange.com^
 ||den01-search.spotxchange.com^
 ||deniro-nl.com^
@@ -2596,6 +2608,7 @@
 ||elasticbeanstalk.com^
 ||elasun.com^
 ||elbaddry.com^
+||elbury.co.uk^
 ||electronic-first.com^
 ||electronicsworld.shop^
 ||electroniczone.nl^
@@ -2843,6 +2856,7 @@
 ||fdz.flashtalking.com^
 ||feedimages.simpli.fi^
 ||fegatech.com^
+||felixundclara.com^
 ||femmelins.nl^
 ||fenoma.net^
 ||ferienpiraten.ch^
@@ -3113,6 +3127,8 @@
 ||gigadeals-nl.com^
 ||gimmono.com^
 ||ginf.adfurikun.jp^
+||gintare-liepa.com^
+||giuliaciampi.com^
 ||gizmo.serving-sys.com^
 ||gj.applog.uc.cn^
 ||gj.track.uc.cn^
@@ -3286,6 +3302,7 @@
 ||hardwrtion.net^
 ||hariompack.com^
 ||harmtoldsecretion.com^
+||harper-logan.com^
 ||harper-mode.com^
 ||harvest.gotrackier.com^
 ||hasmobi.net^
@@ -3294,6 +3311,8 @@
 ||haven-apotheek.com^
 ||hazaarkobazaar.com^
 ||hazel-azure.co.th^
+||hazel-willow.com^
+||hazelscopper.com^
 ||hb-t5u9.raps.ravm.tv^
 ||hb.aralego.com^
 ||hb.emxdgt.com^
@@ -3789,6 +3808,7 @@
 ||itshops*.nl^
 ||itsnixielou.com^
 ||ivanhuis.com^
+||ivymae-byronbay.com^
 ||iwalkrunrace.com^
 ||ixeq490u20.com^
 ||ixlonbcc.com^
@@ -3920,6 +3940,7 @@
 ||k12inc-my.sharepoint.com^
 ||k77hof1z7k.com^
 ||ka04b.com^
+||kabamy.fr^
 ||kachsurf.mylftv.com^
 ||kaineofficial.com^
 ||kake.images.worldnow.com^
@@ -4089,6 +4110,7 @@
 ||latency.agoop.net^
 ||later-analytics-reports.s3-accelerate.amazonaws.com^
 ||latiniciofbook-login-com.filesusr.com^
+||lauraandrose.com^
 ||lavanaashops.com^
 ||laveal-mode.de^
 ||lavendo-amsterdam.com^
@@ -4259,11 +4281,13 @@
 ||lop3.blob.core.windows.net^
 ||lopesgroups.com^
 ||lorvanda.nl^
+||louismarchandparis.com^
 ||louiza-outlet.nl^
 ||lounamode.com^
 ||lovamode.com^
 ||love-faith.nl^
 ||love69.live^
+||loverlo.com^
 ||lowaschoenen-outlet.com^
 ||lowpricefurnit.com^
 ||lpryu.gov.la^
@@ -4284,9 +4308,12 @@
 ||luminova-home.de^
 ||luminova-home.nl^
 ||lunapienashop.it^
+||lunarabella.es^
 ||lunevo.nl^
+||lusterelle.com^
 ||luvon-nl.com^
 ||luvonnetherlands.com^
+||luvorne.com^
 ||lux-lights.nl^
 ||luxarios.nl^
 ||luxeamsterdam.com^
@@ -4338,6 +4365,7 @@
 ||mab.chartbeat.com^
 ||mabping.chartbeat.net^
 ||mabslive.com^
+||mabylafashion.de^
 ||macassar900.com^
 ||macromill.com^
 ||macsaregreat.com^
@@ -4350,6 +4378,7 @@
 ||magaluu.com^
 ||magazineluizahome.com^
 ||magda.zelentourism.com^
+||maggieandclaire.com^
 ||magic.cmcm.com^
 ||magnaroll.com^
 ||magnetworth.ch^
@@ -4374,7 +4403,12 @@
 ||mailingserv.cf^
 ||maisenwenhua.cn^
 ||maison-amstelveen.nl^
+||maisonartell.com^
+||maisonlisboa.com^
+||maisonreeve.com^
 ||maisons-amstelveen.nl^
+||maisonsolenelyon.fr^
+||maisonverlane.com^
 ||majers-weinscheuer.de^
 ||majestic-amsterdam.nl^
 ||makosoft.hu^
@@ -4394,6 +4428,7 @@
 ||manifest.localytics.com^
 ||manutencaoitauchecks.com^
 ||map.go.affec.tv^
+||mapleandgrove.com^
 ||maraithonpetroleum.com^
 ||marfeel.com^
 ||margaretnoosa.com^
@@ -4414,6 +4449,7 @@
 ||marketprice.com.ng^
 ||marketstreetinternational.com^
 ||markt-huishoudapparatuur.com^
+||marlowegrey.co.uk^
 ||marmalade.adthrive.com^
 ||marmaladedigital.in^
 ||marmoresimperial.com.br^
@@ -4518,6 +4554,7 @@
 ||mehmedbilgin.com^
 ||meijer-mode.com^
 ||meitao886.com^
+||melandi.fr^
 ||melina.aslan.kim^
 ||memoriasusbperu.com^
 ||mena-gmtdmp.mookie1.com^
@@ -4573,6 +4610,8 @@
 ||microsoft-customers.ddns.net^
 ||microsofts-on.myvnc.com^
 ||mid.rkdms.com^
+||middo-paris.fr^
+||middo.de^
 ||middoe.com^
 ||midiaplural.com.br^
 ||midoweb.offerstrack.net^
@@ -4651,9 +4690,11 @@
 ||modern.watson.data.microsoft.com.akadns.net^
 ||modesplein-eindhoven.nl^
 ||modest-murdock-a959b2.netlify.app^
+||modestijl.shop^
 ||modevera.nl^
 ||modewarenhuis.com^
 ||modewinkel-vandegraaf.nl^
+||modrzewska-warszawa.pl^
 ||moengagewebsdk.imgix.net^
 ||mogdo.nl^
 ||moha-group.com^
@@ -4768,6 +4809,7 @@
 ||myofficeplus.com^
 ||myonlinepokiesblog.com^
 ||myplacesalon.com^
+||mysafetyfix.com^
 ||mytanfarma.com^
 ||mytextblast242.com^
 ||mywp.asia^
@@ -4802,6 +4844,7 @@
 ||nederlandsedrugsmarkt.com^
 ||nej7wwpp1u.com^
 ||neku.ga^
+||nellandbrooks.com^
 ||neno13works.com^
 ||neo-electro.com^
 ||nep.advangelists.com^
@@ -4851,6 +4894,7 @@
 ||nihmt.com^
 ||nika-deals.shop^
 ||nikiscosmetics.com^
+||ninanedas.com^
 ||nineoone.sakura.ne.jp^
 ||nisargaraja.org^
 ||njtefeet.atbu.edu.ng^
@@ -4887,6 +4931,7 @@
 ||nordicsocks.nl^
 ||nordicwool.nl^
 ||norperuinge.com.pe^
+||norrez.com^
 ||norsfashion.nl^
 ||north35.com.br^
 ||norwii.com^
@@ -4894,10 +4939,13 @@
 ||notify.bugsnag.appstore.a2z.com^
 ||notify.mgid.com^
 ||notoxkitchen.nl^
+||nousa.nl^
 ||nova-collector-1192479543.us-east-1.elb.amazonaws.com^
+||novafemmemoda.pl^
 ||novageracaotransportes.com.br^
 ||novapowa.com^
 ||novazo-shop.com^
+||novera-berlin.de^
 ||novimuoti.fi^
 ||noviuse.com^
 ||np1t0bcj0n.com^
@@ -5157,6 +5205,7 @@
 ||pat4.qpoe.com^
 ||patrickchan-hk.net^
 ||patrimarven.com.br^
+||paul-emma.de^
 ||paullemmerick.com^
 ||pawanhospital.co.in^
 ||pawel-sikora.pl^
@@ -5498,6 +5547,7 @@
 ||putrr17.com^
 ||putrr5.com^
 ||putrr6.com^
+||puurklein.nl^
 ||pw8tq9wk.top^
 ||pwufxar8.top^
 ||px.adhigh.net^
@@ -5520,6 +5570,7 @@
 ||q.myvisualiq.net^
 ||q8ux4fscc7.com^
 ||qbk1.com^
+||qctsbc-ag.myshopify.com^
 ||qcx.quantserve.com^
 ||qfjys.com.img.800cdn.com^
 ||qingyia.site^
@@ -5684,6 +5735,7 @@
 ||ritfeld-home.store^
 ||rithurajmg.com^
 ||riven-stone.com^
+||rivlow.com^
 ||riyanenterprise.com^
 ||rjmlbd.com^
 ||rkdtt0hez7.com^
@@ -5855,6 +5907,7 @@
 ||saktis.shop^
 ||sale-amsterdam.nl^
 ||saledebijenkorf.nl^
+||salejano.nl^
 ||sales-corner.nl^
 ||sales.idio.co^
 ||salewoonaccessoires.com^
@@ -6309,6 +6362,7 @@
 ||snkrfashion.com^
 ||snowplow.ownlocal.com^
 ||snssdk1233.onelink.me^
+||snuggyliving.com^
 ||so.rlcdn.com^
 ||soapcafemalta.com^
 ||soccer-fan.nl^
@@ -6658,6 +6712,7 @@
 ||surveygizmobeacon.s3.amazonaws.com^
 ||surveys.insightexpressai.com^
 ||surveyworld12.me^
+||susandonna.com^
 ||susandwilliamspc.com^
 ||suspiros.com.br^
 ||svbrightroot.com^
@@ -6792,6 +6847,7 @@
 ||tags.viewdeos.com^
 ||tags.w55c.net^
 ||tajs.qq.com^
+||talaine.de^
 ||talesambition.com^
 ||talk.igexin.com^
 ||talkable.com^
@@ -6908,6 +6964,7 @@
 ||thermosflaskshop.com^
 ||therockacc.org^
 ||thesamanthastories.com^
+||theskirtedit.co.uk^
 ||thesquid-gamemerch.com^
 ||thetennesseekid.xyz^
 ||thetimmedia.site^
@@ -7075,6 +7132,7 @@
 ||trc.pushnami.com^
 ||treevy.shop^
 ||trendalite.com^
+||trendoma.pl^
 ||trendoutlet-dordrecht.nl^
 ||trends.revcontent.com^
 ||trialpay.com^
@@ -7098,6 +7156,7 @@
 ||trophaxbrande.com^
 ||tropy.nl^
 ||truefords.com^
+||truenorthlabel.com^
 ||truex.com^
 ||tsatest-812.tk^
 ||tshirt-factory.eu^
@@ -7187,6 +7246,7 @@
 ||universal.iperceptions.com^
 ||universe.send.microad.jp^
 ||unlockghana.com^
+||unmona.com^
 ||unmundoconpuentes.com^
 ||uofnelincoln-my.sharepoint.com^
 ||uop.umeng.com^
@@ -7369,9 +7429,12 @@
 ||velur-nl.com^
 ||vemoot.in^
 ||vemorio.com^
+||vendrelle.com^
 ||venetia.iad.appboy.com^
 ||venicioandrade.com^
 ||venumeu.shop^
+||vera-lily.com^
+||verakarel-boutique.cz^
 ||veranilo.com^
 ||verichase336b.webcindario.com^
 ||verification.jiguang.cn^
@@ -7382,6 +7445,7 @@
 ||vermisboutiquenl.com^
 ||verzorgingbeste.com^
 ||vessinederland.com^
+||veymontmode.com^
 ||vezalia.shop^
 ||vg-aws-us-east-1a-hb.rayjump.com^
 ||vg-aws-us-east-1b-hb.rayjump.com^
@@ -7456,6 +7520,7 @@
 ||vnw2gd68pb.com^
 ||vogelexpress.com^
 ||voguenest.nl^
+||voiller.pl^
 ||volano-amsterdam.nl^
 ||volare.co.ls^
 ||voleur.nl^
@@ -7468,6 +7533,7 @@
 ||voskidzerqer.am^
 ||voterapp.jamaat.org^
 ||vothageconstruction.com^
+||votrelle.com^
 ||voyagespirates.fr^
 ||vpaid.springserve.com^
 ||vpjzrzcqrc.com^
@@ -7548,6 +7614,7 @@
 ||wehkampsoutlets.nl^
 ||weighted.com.akadns.net^
 ||wellsbankdae.duckdns.org^
+||welrano.com^
 ||wenzlifestyle.nl^
 ||weproduction-eg.com^
 ||wereldparts.net^
@@ -7847,6 +7914,7 @@
 ||zoetermeerov.nl^
 ||zoeydeutchweb.com^
 ||zofiadabrowski.com^
+||zofiastyl.com^
 ||zolana-nl.com^
 ||zomerwolkje.nl^
 ||zonefound.com.cn^
