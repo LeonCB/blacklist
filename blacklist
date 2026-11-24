@@ -2,8 +2,8 @@
 ! Description: Leon's malicious and advertisement websites DNS Blocklist
 ! Homepage: https://github.com/LeonCB/blacklist
 ! License: https://github.com/LeonCB/blacklist?tab=GPL-3.0-1-ov-file
-! Last modified: 2026-11-21 12:28:14 CET
-! Rules: 7922
+! Last modified: 2026-11-24 21:52:09 CET
+! Rules: 7927
 
 ||*000webhostapp.com^
 ||*126.com^
@@ -1294,6 +1294,7 @@
 ||brennholzmarkt.com^
 ||brialdy.com^
 ||brick-store.eu^
+||bricks-fans.nl^
 ||bridalshoesshop.com^
 ||brightroll-partners.tremorhub.com^
 ||brightworldbookclub.com^
@@ -2989,6 +2990,7 @@
 ||freshseafood.webhop.me^
 ||fribooonline.com^
 ||fridayfashion.nl^
+||frillashop.be^
 ||frin.ng^
 ||front-logs.voodoo-ads.io^
 ||frostyc.com^
@@ -4673,6 +4675,7 @@
 ||moda-deals.nl^
 ||modafinil-kopen.io^
 ||modatide.com^
+||mode-bern.com^
 ||mode-etikett.com^
 ||mode-wereld.nl^
 ||modeboss.com^
@@ -5517,6 +5520,7 @@
 ||pujj652hkm.com^
 ||pulse.inmobi.com^
 ||punnetthomes.com^
+||purangs.com^
 ||pure-amsterdam.nl^
 ||pure-hosting.de^
 ||pureamsterdam.nl^
@@ -7573,6 +7577,7 @@
 ||wandjoo.com^
 ||wangzonghang.cn^
 ||ware.ru^
+||warenplein.nl^
 ||warmte24.nl^
 ||warmworden.com^
 ||warp.media.net^
